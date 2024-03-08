@@ -2,7 +2,7 @@
 
 [**<-- VOLVER AL INICIO**](/README.md)
 
-![Alt Text](https://git-scm.com/downloads/logos)
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
 ## 1: Instalar Git localmente
 

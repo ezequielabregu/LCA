@@ -1,5 +1,9 @@
 # Git y Github
 
+[**<-- VOLVER AL INICIO**](/README.md)
+
+![Alt Text](https://git-scm.com/downloads/logos)
+
 ## 1: Instalar Git localmente
 
 Instalar Git en tu computadora.

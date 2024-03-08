@@ -2,10 +2,11 @@
 
 ## 1: Instalar Git localmente
 
-Instalar Git en tu computadora. 
+Instalar Git en tu computadora.
+
 Puedes descargarlo desde el [sitio oficial de Git](https://git-scm.com/) y seguir las [instrucciones de instalación](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) para tu sistema operativo.
 
-tip: [Cómo instalar Git en Windows - Tutorial 2023](https://kinsta.com/es/base-de-conocimiento/instalar-git/)
+**Tip:** _[Cómo instalar Git en Windows - Tutorial 2023](https://kinsta.com/es/base-de-conocimiento/instalar-git/)_
 
 ## 2: Configurar Git
 
@@ -23,6 +24,12 @@ Abre tu terminal y navega al directorio donde deseas crear tu nuevo proyecto.
 Ejecuta el siguiente comando para iniciar un nuevo repositorio Git:
 
 `git init`
+
+**Tip:** _Para acceder a un directorio utilizando la terminal Bash, puedes utilizar el comando cd (change directory). Aquí tienes un ejemplo básico:_
+
+```bash
+cd ruta/del/directorio
+``` 
 
 ## 4: Agregar archivos al repositorio (stage)
 
@@ -57,3 +64,7 @@ git remote add origin https://github.com/nombreusuario/nuevorepositorio.git
 Luego, sube tus cambios al repositorio remoto:
 
 `git push -u origin master`
+
+## Referencias
+
+[Pro Git (Chacon & Straub) *online*](https://git-scm.com/book/es/v2)

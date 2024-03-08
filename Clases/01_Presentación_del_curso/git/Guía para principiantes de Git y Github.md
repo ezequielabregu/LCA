@@ -1,13 +1,59 @@
 # Git y Github
 
-## Qué es Git?
+## 1: Instalar Git localmente
 
-Git es un software de control de versiones gratis y de código abierto. Fue creado por Linus Torvalds en 2005. Esta herramienta es un sistema de control de versiones que fue inicialmente desarrollado para trabajar con varios desarrolladores en el núcleo de Linux.
+Instalar Git en tu computadora. 
+Puedes descargarlo desde el [sitio oficial de Git](https://git-scm.com/) y seguir las [instrucciones de instalación](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) para tu sistema operativo.
 
-Esto significa básicamente que Git es un rastreador de contenido. Así que Git puede ser utilizado para almacenar contenido — y se usa principalmente para almacenar código debido a otras características que proporciona.
+tip: [Cómo instalar Git en Windows - Tutorial 2023](https://kinsta.com/es/base-de-conocimiento/instalar-git/)
 
-Los proyectos de la vida real generalmente tienen múltiples desarrolladores trabajando en paralelo. Así que necesitan un sistema de control de versiones como Git para asegurarse de que no hay conflictos de código entre ellos.
+## 2: Configurar Git
 
-Además, los requerimientos en este tipo de proyectos cambian constantemente. Así que un sistema de control de versiones permite a los desarrolladores revertir y regresar a una versión anterior de su código.
+Después de instalar Git, necesitas configurar tu nombre de usuario y tu dirección de correo electrónico. Abre tu terminal y ejecuta los siguientes comandos, sustituyendo "TuNombre" y "tu@email.com" con tus propias credenciales:
 
-El sistema de ramas en Git permite a los desarrolladores trabajar individualmente en una tarea (Por ejemplo: una rama -> una tarea O una Rama -> un desarrollador). Básicamente, se puede pensar en Git como una aplicación de software pequeña que controla tu código base, si eres un desarrollador.
+```bash
+git config --global user.name "TuNombre"
+git config --global user.email "tu@email.com"
+```
+
+## 3: Crear un repositorio local
+
+Abre tu terminal y navega al directorio donde deseas crear tu nuevo proyecto.
+
+Ejecuta el siguiente comando para iniciar un nuevo repositorio Git:
+
+`git init`
+
+## 4: Agregar archivos al repositorio (stage)
+
+Coloca tus archivos en el directorio del proyecto.
+
+Usa el siguiente comando para añadir todos los archivos al área de preparación:
+
+`git add .`
+
+## 5: Realizar un commit
+
+Después de agregar archivos, ejecuta el siguiente comando para realizar un commit:
+
+`git commit -m "Mensaje descriptivo del commit"`
+
+## 6: Crear un repositorio en GitHub
+
+Visita GitHub e inicia sesión en tu cuenta.
+
+Haz clic en el botón "+" en la esquina superior derecha y selecciona "New repository".
+
+Dale un nombre a tu repositorio, añade una descripción opcional y haz clic en "Create repository".
+
+## 7: Conectar el repositorio local con GitHub
+
+En tu terminal, ejecuta el siguiente comando, sustituyendo nombreusuario y nuevorepositorio con tu nombre de usuario y el nombre del repositorio en GitHub:
+
+```bash
+git remote add origin https://github.com/nombreusuario/nuevorepositorio.git
+```
+
+Luego, sube tus cambios al repositorio remoto:
+
+`git push -u origin master`

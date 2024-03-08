@@ -1,6 +1,11 @@
 # Laboratorio de Creación Algorítmica
 
-## Docentes:
+## Índice de Contenidos
+
+### 1. Presentación del curso
+[Version Control: Git y Github](./Clases/01_Presentación_del_curso/git/Guía%20para%20principiantes%20de%20Git%20y%20Github.md)
+
+## Docentes
 
 Dr. Damián Anache
 
@@ -14,7 +19,7 @@ eabregu@untref.edu.ar
 
 [https://ezequielabregu.com/](https://ezequielabregu.com/)
 
-## Día y horario: 
+## Día y horario
 
 Lunes de 8:30 a 12:30 hs
 

@@ -18,7 +18,13 @@ Después de instalar Git, necesitas configurar tu nombre de usuario y tu direcci
 
 ```bash
 git config --global user.name "TuNombre"
-git config --global user.email "tu@email.com"
+git config --global user.email "Tu@Email.com"
+```
+
+**Tip:** _Puedes verificar tu configuración en cualquier momento ejecutando:_
+
+```bash
+git config --list
 ```
 
 ## 3: Crear un repositorio local
@@ -68,6 +74,49 @@ git remote add origin https://github.com/nombreusuario/nuevorepositorio.git
 Luego, sube tus cambios al repositorio remoto:
 
 `git push -u origin master`
+
+## Otras operaciones frecuentes
+
+### Verificar el estado del repositorio local
+
+Para ver el estado de tu repositorio local, ejecuta el siguiente comando:
+
+```bash
+git status
+```
+
+### Verificar el historial de commits
+
+Para ver el historial de commits, ejecuta el siguiente comando:
+
+```bash
+git log
+```
+
+### Clonar un repositorio
+
+Para clonar un repositorio existente, ejecuta el siguiente comando en tu terminal:
+
+```bash
+git clone direccion-del-repositorio-externo.git
+```
+
+El repositorio se clonará en tu directorio actual.
+
+### Verificar el estado del repositorio remoto
+
+Para ver el estado del repositorio remoto, ejecuta el siguiente comando:
+
+Para verificar si hubo cambios en el repositorio remoto, puedes usar el comando `git fetch` seguido de git diff.
+
+1. Ejecuta `git fetch origin` en la terminal. Esto traerá la información del repositorio remoto pero no hará ninguna modificación en tu repositorio local.
+
+2. Ejecuta `git diff HEAD..origin/main` (o reemplaza `main` con el branch que estás siguiendo) para ver las diferencias entre tu último commit y el último commit en el repositorio remoto.
+
+```bash
+git fetch origin
+git diff HEAD..origin/master
+```
 
 ## Referencias
 

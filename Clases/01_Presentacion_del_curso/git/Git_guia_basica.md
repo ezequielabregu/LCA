@@ -73,7 +73,7 @@ git remote add origin https://github.com/nombreusuario/nuevorepositorio.git
 
 Luego, sube tus cambios al repositorio remoto:
 
-`git push -u origin master`
+`git push -u origin main`
 
 ## Otras operaciones frecuentes
 

@@ -82,7 +82,7 @@ GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia 
 
 Git es un sistema de control de versiones distribuido de código abierto y gratuito diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia. Git es fácil de aprender y tiene una huella pequeña con un rendimiento increíblemente rápido. Es el sistema de control de versiones más utilizado en el mundo hoy en día.
 
-### [Github](hhhtps://github.com/)
+### [Github](https://github.com/)
 
 GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa. GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa.
 

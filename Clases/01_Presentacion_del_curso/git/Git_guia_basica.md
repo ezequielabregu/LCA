@@ -4,6 +4,8 @@
 
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
+![Visual Git Flow](git-visual.jpg)
+
 ## 1: Instalar Git localmente
 
 Instalar Git en tu computadora.
@@ -39,7 +41,7 @@ Ejecuta el siguiente comando para iniciar un nuevo repositorio Git:
 
 ```bash
 cd ruta/del/directorio
-``` 
+```
 
 ## 4: Agregar archivos al repositorio (stage)
 

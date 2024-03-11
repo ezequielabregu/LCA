@@ -85,3 +85,9 @@ Git es un sistema de control de versiones distribuido de código abierto y gratu
 ### [Github](hhhtps://github.com/)
 
 GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa. GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa.
+
+### [Markdown](https://www.markdownguide.org/)
+
+[ver Guía en Español](https://code.visualstudio.com)
+
+Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.

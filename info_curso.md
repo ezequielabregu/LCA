@@ -67,3 +67,21 @@ Distribuciones de Pure Data
 [Plug Data](https://plugdata.org/download.html)
 
 Pure Data (o Pd) es un lenguaje de programación visual desarrollado por Miller Puckette durante los años 90 para la creación de música por ordenador interactiva y obras multimedia. Pd es un proyecto de código abierto y tiene una gran base de desarrolladores trabajando en nuevas extensiones al programa. Pd es muy similar en alcance y diseño al programa original de Puckette, Max, y es hasta cierto grado interoperable con Max/MSP, el sucesor comercial del lenguaje Max (actualmente integrado a Ableton LIVE). Ambos Pd y Max son ejemplos discutibles de lenguajes de programación de "flujo de datos". En este tipo de lenguajes, funciones u "objetos" son conectados o "parcheados" unos con otros en un ambiente gráfico que modela el flujo del control y el audio.
+
+## Otras Herramientas Complementarias
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. También es personalizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto, aunque la descarga oficial está bajo software privativo y contiene características personalizadas.
+
+### [GitHub Copilot](https://copilot.github.com/)
+
+GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código.
+
+### [Git](https://git-scm.com/)
+
+Git es un sistema de control de versiones distribuido de código abierto y gratuito diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia. Git es fácil de aprender y tiene una huella pequeña con un rendimiento increíblemente rápido. Es el sistema de control de versiones más utilizado en el mundo hoy en día.
+
+### [Github](hhhtps://github.com/)
+
+GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa. GitHub es una plataforma de desarrollo inspirada en su plataforma de control de versiones Git, que ha sido diseñada para alojar proyectos de programación (software) de forma colaborativa.

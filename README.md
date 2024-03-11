@@ -6,4 +6,5 @@
 
 ### 1. Presentación del curso
 
-[Version Control: Git y Github](./Clases/01_Presentacion_del_curso/git/Git_guia_basica.md)
+- [Version Control: Git y Github](./Clases/01_Presentacion_del_curso/git/Git_guia_basica.md)
+- Introducción a al pensamiento algorítmico

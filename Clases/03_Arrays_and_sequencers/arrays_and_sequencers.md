@@ -1,5 +1,7 @@
 # Arrays and sequencers
 
+**EN CONSTRUCCIÓN!**
+
 **Secuenciador por pasos (Step Sequencer)**: es una herramienta para organizar y controlar la reproducción de eventos en una secuencia temporalmente ordenada. Esta secuencia se compone de una serie de pasos discretos, donde cada paso representa un intervalo de tiempo regular y puede contener información sobre la activación o desactivación de eventos.
 Además de controlar eventos musicales como notas, acordes y percusiones, un step sequencer puede también gestionar una variedad de otros eventos. Esto incluye cambios de parámetros en instrumentos virtuales o sintetizadores de video o audio, automatización de efectos en tiempo real, control de iluminación en actuaciones en vivo o instalaciones multimedia, activación de muestras de para crear patrones y secuencias de efectos, así como el disparo de eventos de control MIDI para controlar hardware o software externo.
 

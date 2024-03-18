@@ -117,3 +117,13 @@ Los pasos a continuación son para estudiantes con correos electrónicos escolar
 - **Paso final:** Enviar la solicitud.
 
 Las solicitudes enviadas a veces se revisan dentro de la hora o a más tardar dentro de un día. Esto puede tardar ligeramente más en muy pocas ocasiones dependiendo del volumen de solicitudes recibidas.
+
+Referencias: [Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an Authenticated Student Developer](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279)
+
+&nbsp;
+
+### [Codeium](https://codeium.com/)
+
+Alternativa gratuita a Github Copilot.
+
+**Codeium** es una herramienta de inteligencia artificial que agiliza y simplifica la programación al automatizar tareas mundanas, acelerar el desarrollo y aumentar la precisión. Sus algoritmos impulsados por IA facilitan el acceso a su amplia biblioteca de fragmentos de código y plantillas. Además, ofrece una interfaz de usuario intuitiva que permite a los usuarios encontrar rápidamente el código que necesitan.

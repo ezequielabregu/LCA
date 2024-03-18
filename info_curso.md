@@ -74,10 +74,6 @@ Pure Data (o Pd) es un lenguaje de programación visual desarrollado por Miller 
 
 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. También es personalizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto, aunque la descarga oficial está bajo software privativo y contiene características personalizadas.
 
-### [GitHub Copilot](https://copilot.github.com/)
-
-GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código.
-
 ### [Git](https://git-scm.com/)
 
 Git es un sistema de control de versiones distribuido de código abierto y gratuito diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia. Git es fácil de aprender y tiene una huella pequeña con un rendimiento increíblemente rápido. Es el sistema de control de versiones más utilizado en el mundo hoy en día.
@@ -91,3 +87,33 @@ GitHub es una plataforma de desarrollo inspirada en su plataforma de control de 
 [ver Guía en Español](https://code.visualstudio.com)
 
 Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
+
+### [GitHub Copilot](https://copilot.github.com/)
+
+GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código.
+
+### Como aplicar Github Copilot como estudiante
+
+Para configurar Copilot como un Desarrollador Estudiantil autenticado de Github, necesitas seguir estos pasos:
+
+### Configuración de tu Cuenta de Estudiante en GitHub
+
+1. **Crear una cuenta de GitHub:** Si aún no tienes una, crea una cuenta en GitHub. La cuenta de GitHub es gratuita, así que si aún no te has registrado, siéntete libre de hacerlo, ya que es un requisito previo antes de poder acceder al Paquete de Desarrollador Estudiantil. [https://github.com](https://github.com)
+
+2. **Verificar tu estado de estudiante en GitHub:** Ve al Paquete de Desarrollador Estudiantil de GitHub y verifica tu estado de estudiante en GitHub: [https://education.github.com/pack](https://education.github.com/pack)
+
+El paquete de desarrolladores estudiantiles de GitHub es estrictamente para estudiantes. Por lo tanto, antes de poder acceder a él, deberás demostrar tu identidad de estudiante a través del dominio de correo electrónico registrado en tu escuela o a través de un proceso de identificación para personas cuya escuela no ofrece correo electrónico escolar.
+
+Los pasos a continuación son para estudiantes con correos electrónicos escolares. Si no tienes un correo electrónico dedicado a la escuela, aún puedes acceder al paquete de desarrollador estudiantil de GitHub contactando al Soporte de GitHub @ support.github.com/request.
+
+- **Paso 1:** Visitar la página principal del Paquete de Desarrollador Estudiantil (education.github.com/pack)
+- **Paso 2:** Registrarse en el paquete de desarrollador estudiantil
+- **Paso 3:** Seleccionar Obtener Beneficio Estudiantil
+- **Paso 4:** Iniciar sesión o Registrarse para obtener una cuenta de GitHub.
+- **Paso 5:** Agregar tu correo electrónico escolar. Este proceso generalmente necesita cierta autenticación, ya que se enviará un código a tu correo electrónico escolar para verificación.
+- **Paso 6:** Ingresar el nombre de tu escuela
+- **Paso 7:** Responder las preguntas sobre cómo planeas usar GitHub.
+- **Paso 8:** En algunas ocasiones, se puede requerir más prueba. Por lo tanto, es posible que necesites cargar tu tarjeta de identificación escolar u otro formulario de prueba de validez de estudio.
+- **Paso final:** Enviar la solicitud.
+
+Las solicitudes enviadas a veces se revisan dentro de la hora o a más tardar dentro de un día. Esto puede tardar ligeramente más en muy pocas ocasiones dependiendo del volumen de solicitudes recibidas.

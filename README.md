@@ -15,3 +15,12 @@
   - [ej ordenamiento de valores sonificación 1](https://youtu.be/kPRA0W1kECg) ([fuente](https://panthema.net/2013/sound-of-sorting/))
   - [ej ordenamiento de valores sonificación 2](https://youtu.be/GIvjJwzrHBU)
   - [ej ordenamiento de valores sonificación 3](https://youtu.be/QmOtL6pPcI0)
+
+### 2. Algoritmos y Arte
+
+- [Algoritmos y Arte](./Clases/02_Algoritmos_y_Arte/README.md)
+
+### 3. Algoritmos, Arrays y Secuencias
+
+- [Algoritmos, Arrays y Secuencias](./Clases/03_Algoritmos_Arrays_Secuencias/arrays_and_sequencers.md)
+- [Algoritmo de Euclides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_Euclides_y_Ritmo.pdf)

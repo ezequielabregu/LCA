@@ -22,5 +22,5 @@
 
 ### 3. Algoritmos, Arrays y Secuencias
 
-- [Algoritmos, Arrays y Secuencias](./Clases/03_Algoritmos_Arrays_Secuencias/arrays_and_sequencers.md)
+- [Algoritmos, Arrays y Secuencias](./Clases/03_Algoritmos_arrays_secuencias/arrays_and_sequencers.md)
 - [Algoritmo de Euclides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_Euclides_y_Ritmo.pdf)

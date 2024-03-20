@@ -1,6 +1,10 @@
 # Arrays and sequencers
 
+[**<-- VOLVER AL INICIO**](/README.md)
+
 **EN CONSTRUCCIÓN!**
+
+[![A simple Flamenco dance sequence](http://img.youtube.com/vi/AsPhnlXehBk/0.jpg)](http://www.youtube.com/watch?v=AsPhnlXehBk "A simple Flamenco dance sequence")
 
 **Secuenciador por pasos (Step Sequencer)**: es una herramienta para organizar y controlar la reproducción de eventos en una secuencia temporalmente ordenada. Esta secuencia se compone de una serie de pasos discretos, donde cada paso representa un intervalo de tiempo regular y puede contener información sobre la activación o desactivación de eventos.
 Además de controlar eventos musicales como notas, acordes y percusiones, un step sequencer puede también gestionar una variedad de otros eventos. Esto incluye cambios de parámetros en instrumentos virtuales o sintetizadores de video o audio, automatización de efectos en tiempo real, control de iluminación en actuaciones en vivo o instalaciones multimedia, activación de muestras de para crear patrones y secuencias de efectos, así como el disparo de eventos de control MIDI para controlar hardware o software externo.
@@ -321,10 +325,10 @@ El problema entonces se reduce a lo siguiente:
 
 construir una secuencia binaria de n bits con k unos tal que los k unos se distribuyan lo más uniformemente posible entre los n − k ceros.
 
-Un caso simple es cuando k divide uniformemente n (sin resto), en cuyo caso debemos colocar unos cada n/k bits. 
-Por ejemplo, si n = 16 y k = 4, entonces la solución es 
+Un caso simple es cuando k divide uniformemente n (sin resto), en cuyo caso debemos colocar unos cada n/k bits.
+Por ejemplo, si n = 16 y k = 4, entonces la solución es
 
-[1000100010001000]. 
+[1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0].
 
 Este caso corresponde a que n y k tienen un divisor común de k (en este caso 4). 
 
@@ -357,3 +361,9 @@ donde:
 hits = notas
 
 steps = pulsos
+
+
+### Referencias
+
+- [The Euclidean Algorithm Generates Traditional Musical Rhythms](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
+- [Piano-Phase](https://www.chenalexander.com/Piano-Phase)

@@ -263,6 +263,10 @@ while True:
         paso_actual = 0
 ```
 
+### Ejercicio 4
+
+*Experimenta con distintos tipos de generador de sonido. Por ejemplo: piano, electric drums, voces, etc*
+
 ---
 
 [**<-- VOLVER AL INICIO**](/README.md)

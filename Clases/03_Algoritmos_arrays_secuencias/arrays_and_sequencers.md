@@ -2,10 +2,6 @@
 
 [**<-- VOLVER AL INICIO**](/README.md)
 
-**EN CONSTRUCCIÓN!**
-
-[![A simple Tango dance sequence](http://img.youtube.com/vi/AsPhnlXehBk/0.jpg)](http://www.youtube.com/watch?v=AsPhnlXehBk)
-
 [![A simple Flamenco dance sequence](http://img.youtube.com/vi/dvkBqfAXo2Q&ab/0.jpg)](http://www.youtube.com/watch?v=dvkBqfAXo2Q&ab)
 
 **Secuenciador (Sequencer)**: es una herramienta para organizar y controlar la reproducción de `eventos` en una secuencia temporalmente ordenada. Esta secuencia se compone de una serie de pasos discretos, donde cada paso representa un intervalo de tiempo regular y puede contener información sobre la activación o desactivación de eventos.
@@ -203,7 +199,7 @@ Cuando la separación entre las notas interpretadas por los dos pianos alcanza u
 
 ![Phase Difference](https://www.nist.gov/sites/default/files/images/2022/01/27/phase-difference.gif)
 
-[![Piano Phase Visualization](http://img.youtube.com/vi/Jqoieg0Vqag&t/0.jpg)](http://www.youtube.com/watch?v=Jqoieg0Vqag&t)
+[![Piano Phase Visualization](http://img.youtube.com/vi/Jqoieg0Vqag/0.jpg)](http://www.youtube.com/watch?v=Jqoieg0Vqag)
 
 &nbsp;
 

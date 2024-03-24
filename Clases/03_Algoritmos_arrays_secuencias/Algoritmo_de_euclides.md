@@ -110,11 +110,11 @@ m.c.d. (8,3) = 1
 ### ¿Cómo se transforma el cálculo del m.c.d. en patrones distribuidos con regularidad máxima?
 
 
-Representar una secuencia binaria de k unos y n−k ceros, donde cada bit [0] representa un intervalo de tiempo y los unos [1] se envía una señal. 
+Representar una secuencia binaria de k unos [1] y n−k ceros [0], donde cada bit [0] representa un intervalo de tiempo y los unos [1] se envía una señal. 
 
 El problema entonces se reduce a lo siguiente: 
 
-construir una secuencia binaria de n bits con k unos tal que los k unos se distribuyan lo más uniformemente posible entre los n − k ceros.
+`Construir una secuencia binaria de n bits con k unos tal que los k unos se distribuyan lo más uniformemente posible entre los n − k ceros.`
 
 Un caso simple es cuando k divide uniformemente n (sin resto), en cuyo caso debemos colocar unos cada n/k bits.
 Por ejemplo, si n = 16 y k = 4, entonces la solución es
@@ -129,24 +129,72 @@ De manera más general, si el máximo común divisor entre n y k es g, esperarí
 
 &nbsp;
 
+### Ejemplo (13, 5)
+
+Consideremos una secuencia con
+n = 13 y k = 5. 
+
+Dado que 13 − 5 = 8, comenzamos por considerar una secuencia que consiste en 5 unos, seguidos de
+8 ceros, la cual debe pensarse como 13 secuencias de un bit cada una:
+
+[1 1 1 1 1 0 0 0 0 0 0 0 0]
+
+Empezamos a mover ceros colocando un cero después de cada uno, para producir cinco secuencias de dos bits cada una, con
+tres ceros restantes:
+
+[10] [10] [10] [10] [10] [0] [0] [0]
+
+`13 = 5 . 2 + 3`
+
+Luego distribuimos los tres ceros restantes de manera similar, colocando una secuencia [0] después de cada secuencia [10]
+para obtener:
+
+[100] [100] [100] [10] [10]
+
+`5 = 3 . 1 + 2`
+
+Ahora tenemos tres secuencias de tres bits cada una, y un remanente de dos secuencias de dos bits cada una.
+Por lo tanto, continuamos de la misma manera, colocando una secuencia [10] después de cada secuencia [100] para obtener:
+
+[10010] [10010] [100]
+
+`3 = 2 . 1 + 1`
+
+El proceso se detiene cuando el remanente consiste en una sola secuencia (en este caso, la secuencia [100]), o
+nos quedamos sin ceros. 
+
+La secuencia final es, por tanto, la concatenación de [10010], [10010] y [100]:
+
+**[1 0 0 1 0 1 0 0 1 0 1 0 0]**
+
+`2 = 1 . 2 + 0`
+
+&nbsp;
+
 ### Ejemplo (17, 7)
 
 Supongamos que tenemos 17 pulsos y queremos distribuir de forma regular 7 notas en los 17 pulsos.
 
 **1.** Alineamos el número de notas  y el número de silencios (7 unos y 10 ceros)
 
+[ 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 ]
+
 |1 1 1 1 1 1 1|0 0 0 0 0 0 0 0 0 0|
 |-|-|
 
 **2.** Formamos grupos de 7, los cual corresponde a efectuar la división de 17 entre 7; obtenemos 7 grupos de formados por `[1 0]` y sobran 3 ceros `[000]`, lo cual indica que en el paso siguiente formaremos grupos de 3 hasta que queden uno o cero grupos.
 
-`17 = 7 . 2 + 3`
+[1 0] [1 0] [1 0] [1 0] [1 0] [1 0] [1 0] [0] [0] [0]
 
 |1 |1 |1 |1 |1 |1 |1 |0 0 0|
 |-|-|-|-|-|-|-|-|
 |0|0|0|0|0|0|0|
 
 &nbsp;
+
+[1 0 0] [1 0 0] [1 0 0] [1 0] [1 0] [1 0] [1 0]
+
+`17 = 7 . 2 + 3`
 
 |1 |1 |1 |1 |1 |1 |1 |
 |-|-|-|-|-|-|-|
@@ -159,6 +207,8 @@ Supongamos que tenemos 17 pulsos y queremos distribuir de forma regular 7 notas 
 
 `7 = 3 . 2 + 1`
 
+[1 0 0 1 0] [1 0  1 0 0] [1 0 0 1 0] [1 0]
+
 |1 |1 |1 |1 |
 |-|-|-|-|
 |0|0|0|0|0|0|0|
@@ -170,11 +220,13 @@ Supongamos que tenemos 17 pulsos y queremos distribuir de forma regular 7 notas 
 
 **4.** Finalmente, el ritmo se obtiene leyendo por columnas y de izquierda a derecha la agrupación obtenida, paso a paso.
 
-`[1 1 1 1 0 0 0 1 1 1 0 0 0]`
+**`[1 0 0 1 0 1 0 0 1 0 1 0 0 1 0 1 0]`**
+
+`3 = 1 . 3 + 0`
 
 &nbsp;
 
-### Implementación en PD - Euclidean sequencer
+### Implementación en Pure Data - Euclidean sequencer
 
 ```text
 (index * hits ) % steps
@@ -184,12 +236,11 @@ Supongamos que tenemos 17 pulsos y queremos distribuir de forma regular 7 notas 
 
 donde:
 
-índice = índice de la euclid serie (array)
+index = índice de la euclid serie (array)
 
-hits = notas
+hits = número de notas a ejecutarse
 
-steps = pulsos
-
+steps = array size
 
 ### Referencias
 

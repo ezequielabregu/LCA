@@ -4,7 +4,7 @@ Godfried Toussaint (2005)
 
 [**<-- VOLVER AL INICIO**](/README.md)
 
-![Eucliden image](https://d3i71xaburhd42.cloudfront.net/ebe337c4fe489311fead27027473d60c8b54f414/5-Figure1-1.png)
+![Eucliden image](https://idmmag.com/wp-content/uploads/2019/02/Euclidean-R-1.jpg)
 
 [Link al artículo original](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
 
@@ -186,28 +186,28 @@ Supongamos que tenemos 17 pulsos y queremos distribuir de forma regular 7 notas 
 
 [1 0] [1 0] [1 0] [1 0] [1 0] [1 0] [1 0] [0] [0] [0]
 
+`17 = 7 . 2 + 3`
+
 |1 |1 |1 |1 |1 |1 |1 |0 0 0|
 |-|-|-|-|-|-|-|-|
 |0|0|0|0|0|0|0|
 
 &nbsp;
 
-[1 0 0] [1 0 0] [1 0 0] [1 0] [1 0] [1 0] [1 0]
+**3.** De nuevo, esto es equivalente a efectuar la división de 7 entre 3. En nuestro caso, queda un solo grupo y hemos terminado.
 
-`17 = 7 . 2 + 3`
+&nbsp;
+
+[1 0 0] [1 0 0] [1 0 0] [1 0] [1 0] [1 0] [1 0]
 
 |1 |1 |1 |1 |1 |1 |1 |
 |-|-|-|-|-|-|-|
 |0|0|0|0|0|0|0|
 |0|0|0|
 
-&nbsp;
-
-**3.** De nuevo, esto es equivalente a efectuar la división de 7 entre 3. En nuestro caso, queda un solo grupo y hemos terminado.
+[1 0 0 1 0] [1 0  1 0 0] [1 0 0 1 0] [1 0]
 
 `7 = 3 . 2 + 1`
-
-[1 0 0 1 0] [1 0  1 0 0] [1 0 0 1 0] [1 0]
 
 |1 |1 |1 |1 |
 |-|-|-|-|

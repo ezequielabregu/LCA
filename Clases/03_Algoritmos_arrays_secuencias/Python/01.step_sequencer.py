@@ -4,7 +4,7 @@ import mido
 # 1. Define una estructura de datos para representar cada paso de la secuencia (8 pasos)
 secuencia = [None] * 8
 
-# 2. Define un arreglo para almacenar los valores de notas MIDI para cada paso
+# 2. Define un array para almacenar los valores de notas MIDI para cada paso
 notas_midi = [60, 62, 64, 65, 67, 69, 71, 72]  # Escala de Do mayor
 
 # 3. Inicializa los parámetros del secuenciador

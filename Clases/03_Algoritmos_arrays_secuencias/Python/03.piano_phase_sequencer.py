@@ -2,7 +2,7 @@ import time
 import mido
 
 # Define una secuencia de notas MIDI para representar la parte musical
-notas_midi = [64, 66, 71, 73, 74, 66, 64, 73, 71, 66, 74, 73]  # Escala de Do mayor
+notas_midi = [64, 66, 71, 73, 74, 66, 64, 73, 71, 66, 74, 73] 
 
 # Abre dos puertos de salida MIDI
 puerto_salida1 = mido.open_output('IAC Driver Bus 1')

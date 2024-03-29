@@ -9,7 +9,7 @@ notas_midi = [60, 62, 64, 65, 67, 69, 71, 72]  # Escala de Do mayor
 
 # 3. Inicializa los parámetros del secuenciador
 paso_actual = 0
-tempo = 120  # pulsos por minuto
+tempo = 960  # pulsos por minuto
 num_pasos = len(secuencia)
 
 # Abre el puerto MIDI virtual (utilizar el nombre correcto del puerto, ver MIDI_port_name.py)

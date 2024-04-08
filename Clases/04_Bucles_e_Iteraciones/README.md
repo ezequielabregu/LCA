@@ -1,5 +1,4 @@
-
-**Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 1**
+# **Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 1**
   - Esta versión está grabada en stereo, se escuchan unas palmas de cada lado [enlace](https://www.youtube.com/watch?v=liYkRarIDfo&t=4s)
   - Por Anne Teresa DeKeersmaeker [enalce](https://www.youtube.com/watch?v=HBWWF3ArW-w&t=16s)
 
@@ -24,7 +23,7 @@
 
 __________
 &nbsp;     
-**Diagramas de Flujo**
+# **Diagramas de Flujo**
 - [Normas ISO de 1985](https://drive.google.com/file/d/18AzxffIpeQFD-Z4HXEON9zG0a7qLW6Id/view?usp=sharing)
 (hay una actualización mas reciente, no tengo esa nueva versión )
 
@@ -41,23 +40,23 @@ __________
 
 __________
 &nbsp;
-**Caso de Estudio #2: Vera Molnar**
+# **Caso de Estudio #2: Vera Molnar**
   - Algunas obras [enlace](https://drive.google.com/drive/folders/1B9neBGlZ-dOk9J2MskYJcA8b5VvUwpCL?usp=sharing)
 
 __________
 &nbsp;
-**Recorrido entorno a la idea de Bucles e Iteración**
+# **Recorrido entorno a la idea de Bucles e Iteración**
 Paquete de patches que vimos en el encuentro. Incluye recreación del trabajo de Vera Molnar "Structures Of Squares" (1974)
 [enlace](https://drive.google.com/drive/folders/1kpeedV5Vlzr4V3wLeHolbSP_AidbMz0u?usp=sharing)
 
 __________
 &nbsp;
-**Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 2 **
+# **Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 2**
 Recreación y proyección de Clapping Music en PD [enlace](https://drive.google.com/drive/folders/1CV3jz4gH7Pai8Q_9EPaFatEiAW86DGzJ?usp=sharing)
 
 __________
 &nbsp;
-**BONUS**
+## **BONUS**
 Algunas de las cosas audiovisuales que comentamos en grupo hacia el final del encuentro:
 
   - [Martin Arnold - 1993 - Passage A L'act](https://www.youtube.com/watch?v=P5PVwiQ9djA)

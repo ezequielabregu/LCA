@@ -8,6 +8,7 @@
       - [Diagrama de Flujo](https://drive.google.com/file/d/1nRqcYf8t4OW-zZpMZm4WYDDWTX2Wu-nh/view?usp=drive_link)
       
       - Pseudo código Versión 1 (la segunda versión está en el paquete de pacthes que armé para la recreación)
+   ```
         Inicio
           tempo = random(160-184);
           int pattern[12] = {1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0};
@@ -20,24 +21,25 @@
               pattern_bis[] = rotateRight(pattern_bis[]);
           }
         Fin.
-
+```
 __________
 &nbsp;     
 # **Diagramas de Flujo**
 - [Normas ISO de 1985](https://drive.google.com/file/d/18AzxffIpeQFD-Z4HXEON9zG0a7qLW6Id/view?usp=sharing)
 (hay una actualización mas reciente, no tengo esa nueva versión )
-
-- Herramientas para trajar offline: 
-	  - Dia Diagram Editor http://dia-installer.de ( disponible para win, mac, linux ) 
-	  Paquetes de Oficina
-	  - https://www.libreoffice.org/discover/draw/ 
-	  - https://www.onlyoffice.com/ 
-	  - https://en.wikipedia.org/wiki/Apache_OpenOffice
-
-  otras opciones: 
-	  - https://www.drawio.com/  (este es el que destacó Ezequiel)
-	  - https://app.diagrams.net/
-
+&nbsp;  
+	- Herramientas para trajar offline:&nbsp;   
+	  - [Dia Diagram Editor](http://dia-installer.de) ( disponible para win, mac, linux ) &nbsp;  
+	&nbsp; 
+    		Paquetes de Oficina&nbsp;  
+	  - [libreoffice](https://www.libreoffice.org/discover/draw/)&nbsp;  
+	  - [onlyoffice](https://www.onlyoffice.com/)&nbsp;  
+	  - [openoffice](https://en.wikipedia.org/wiki/Apache_OpenOffice)&nbsp;  
+&nbsp;  
+	- Otras opciones/online : &nbsp;  
+	  - [drawio](https://www.drawio.com/)  (este es el que destacó Ezequiel)&nbsp;  
+	  - [diagrams](https://app.diagrams.net/)&nbsp;  
+&nbsp;  
 __________
 &nbsp;
 # **Caso de Estudio #2: Vera Molnar**

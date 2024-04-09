@@ -32,6 +32,5 @@
  - Casos de Estudio: Clapping Music de Steve Reich y Vera Molnar. 
  - Diagramas de Flujo
  - Recorrido entorno a las ideas de Bucle e Iteración, terminología y ejemplificación en código.
-
  - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
 

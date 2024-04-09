@@ -26,3 +26,12 @@
 - [Algoritmo de Euclides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_euclides.md)
   - [Slides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_Euclides_y_Ritmo.pdf)
   - [Paper](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
+ 
+### 4. Bucle e Iteracion
+
+ - Casos de Estudio: Clapping Music de Steve Reich y Vera Molnar. 
+ - Diagramas de Flujo
+ - Recorrido entorno a las ideas de Bucle e Iteración, terminología y ejemplificación en código.
+
+ - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
+

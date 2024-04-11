@@ -2,6 +2,10 @@
 
 [> Información y Recursos del curso - LCA 2024](info_curso.md)
 
+## Link de clases sincrónicas
+
+[Google Meet](https://meet.google.com/rdu-bfew-quf)
+
 ## Índice de contenidos
 
 ### 1. Presentación del curso
@@ -34,3 +38,10 @@
  - Recorrido entorno a las ideas de Bucle e Iteración, terminología y ejemplificación en código.
  - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
 
+### 5. Automatas Celulares
+
+- [Automatas Celulares](./Clases/05_Automatas_Celulares/README.md)
+  -  Autómatas celulares unidimensionales (AC1D)
+  -  El caso de la Regla 30
+  -  Autómatas celulares bimimencionales (AC2D)
+  -  Caso de estudio: Conway's Game of Life

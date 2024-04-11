@@ -40,7 +40,7 @@
 
 ### 5. Automatas Celulares
 
-- [Automatas Celulares](./Clases/05_Automatas_Celulares/README.md)
+- [Automatas Celulares](./Clases/05_Automatas_Celulares/Automatas_celulares.md)
   -  Autómatas celulares unidimensionales (AC1D)
   -  El caso de la Regla 30
   -  Autómatas celulares bimimencionales (AC2D)

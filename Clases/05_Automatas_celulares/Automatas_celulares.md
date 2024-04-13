@@ -76,7 +76,7 @@ Por ejemplo, en el primer caso de la figura:
 Se llama Regla 30 porque en binario, 00011110<sub>2</sub> = 30.
 
 
-## Autómatas celulares bimimencionales (AC2D)
+## Autómatas celulares bidimencionales (AC2D)
 
 Los autómatas celulares bidimensionales son una extensión de los autómatas celulares unidimensionales, donde las células no solo tienen vecinos a su izquierda y derecha, sino también arriba y abajo. Esto permite modelar sistemas más complejos y ricos en estructura, como fenómenos en dos dimensiones, como la propagación de ondas, patrones de crecimiento en biología, propagación de fuego, simulación de fluidos, entre otros.
 

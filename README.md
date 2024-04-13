@@ -1,10 +1,12 @@
 # Laboratorio de Creación Algorítmica (LCA)
 
-[> Información y Recursos del curso - LCA 2024](info_curso.md)
+### [- Información y Recursos del curso - LCA 2024](info_curso.md)
 
-## Link de clases sincrónicas
+### [- Link Google Meet](https://meet.google.com/rdu-bfew-quf)
 
-[Google Meet](https://meet.google.com/rdu-bfew-quf)
+### [- Pautas del Trabajo Práctico Final LCA](./UNTREF-LCA-2024-Pautas_TP_Final.md)
+
+&nbsp;
 
 ## Índice de contenidos
 

@@ -4,17 +4,22 @@
 |                                                                                                                                                                                                          | Materia:  | Laboratorio de Creación Algorítmica |            |
 |                                                                                                                                                                                                          | Docentes: | Abregú Ezequiel, Anache Damián.     |            |
 
-**TRABAJO PRÁCTICO FINAL** 
+&nbsp;
+
+## **TRABAJO PRÁCTICO FINAL** 
 
 **VERSIÓN PRELIMINAR - INICIO DE CURSO**
+_Las pautas pueden sufrir cambios durante la cursada, la versión definitiva se anunciará con al menos un mes de anticipación a la fecha de entrega_
 
-**Las pautas pueden sufrir cambios durante la cursada, la versión definitiva se anunciará con al menos un mes de anticipación a la fecha de entrega.**
+&nbsp;
 
 **FECHA DE ENTREGA:** LUNES 10/JUN. 
 
 **FORMATO DEL TRABAJO**: PROYECTO DE DESARROLLO E IMPLEMENTACIÓN ALGORÍTMICA BAJO CRITERIOS ESTÉTICOS. 
 
 **MODALIDAD**: INDIVIDUAL o GRUPAL
+
+&nbsp;
 
 **PROPUESTA**: 
 
@@ -31,6 +36,8 @@ En todos los casos el trabajo puede ser un sistema sonoro, visual o sonovisual y
 En el caso de trabajar con una computadora, el algoritmo del sistema puede estar programado en cualquier lenguaje según preferencia personal. 
 
 El proyecto debe tener definido un objeto de estudio central, a elección, entre el temario abordado durante los encuentros del curso (condicionales, bucle while e iteración, interpolación y rampa, aleatoriedad, etc), y desde uno de esos ejes se deben incluir etapas en diálogo con el resto de los contenidos.
+
+&nbsp;
 
 **MATERIALES A PRESENTAR:**
 
@@ -54,9 +61,13 @@ La extensión aproximada del informe es un mínimo de 500 palabras y un máximo 
 
 **Anexos**: A modo de anexos complementarios se puede incluir un esquema gráfico del sistema general desarrollado y/o una serie de diagramas de flujo que representen las etapas del código desarrollado. El esquema del sistema, los diagramas de flujo y otras imágenes o gráficos que se incluyan deberán ir en la sección final de la presentación.
 
+&nbsp;
+
 **ENTREGA:**
 
 Los materiales se deberán presentar el día de entrega, al horario de inicio del curso.
+
+&nbsp;
 
 **CRITERIOS DE EVALUACIÓN:**
 

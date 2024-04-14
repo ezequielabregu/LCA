@@ -102,8 +102,55 @@ Por ejemplo, si tienes la combinación de entrada 000 y el bit correspondiente e
 
 Por lo tanto, las reglas no son arbitrarias, sino que están determinadas por la representación binaria de la Regla 30, que especifica el siguiente estado de la célula central para cada combinación de entrada de sus vecinas.
 
+### Implementación de la Regla 30 en Python
 
-## Autómatas celulares bidimencionales (AC2D)
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+def rule30(cells):
+    """Applies Rule 30 to the input cells."""
+    new_cells = np.zeros_like(cells)
+    extended_cells = np.concatenate(([cells[-1]], cells, [cells[0]]))  # Apply periodic boundary conditions
+    for i in range(1, len(extended_cells) - 1):
+        neighborhood = extended_cells[i-1:i+2]
+        if np.array_equal(neighborhood, [1, 1, 1]) or np.array_equal(neighborhood, [1, 1, 0]) or \
+           np.array_equal(neighborhood, [1, 0, 1]) or np.array_equal(neighborhood, [0, 0, 0]):
+            new_cells[i-1] = 0
+        else:
+            new_cells[i-1] = 1
+    return new_cells
+
+def main():
+    # Initialize the cells
+    cells = np.zeros(100)
+    cells[50] = 1  # Start with one cell in the middle
+
+    # Apply Rule 30 for 100 steps
+    history = [cells]
+    for i in range(100):
+        cells = rule30(cells)
+        history.append(cells)
+
+    # Display the history as an image
+    plt.imshow(history, cmap='binary')
+    plt.show()
+
+if __name__ == "__main__":
+    main()
+```
+Este script de Python utiliza las bibliotecas numpy y matplotlib para simular y visualizar la evolución de un autómata celular usando la Regla 30.
+
+La función `rule30` es el núcleo de este script. Toma una matriz unidimensional de celdas como entrada, donde cada celda es 0 o 1. La función primero crea una nueva matriz `new_cells` con la misma forma que la entrada, pero rellena con ceros. Luego, extiende la matriz de entrada en ambos extremos para aplicar condiciones de contorno periódicas, lo que significa que la primera celda se considera vecina de la última celda y viceversa.
+
+Luego, la función itera sobre cada celda en la matriz extendida (excluyendo las celdas de contorno añadidas). Para cada celda, considera la celda y sus dos vecinas como un vecindario. Si el vecindario coincide con uno de los cuatro patrones específicos ([1, 1, 1], [1, 1, 0], [1, 0, 1], o [0, 0, 0]), la celda correspondiente en `new_cells` se establece en 0. De lo contrario, se establece en 1. Esta es la implementación de la Regla 30. Finalmente, la función devuelve la nueva matriz de celdas.
+
+La función principal inicializa una matriz unidimensional de 100 celdas, todas establecidas en 0 excepto la celda en el medio, que se establece en 1. Luego, aplica la función `rule30` a esta matriz 100 veces, almacenando cada matriz resultante en una lista llamada `history`. Esta lista luego se visualiza como una imagen binaria usando la función `imshow` de matplotlib, donde cada fila corresponde a un paso en la evolución del autómata celular.
+
+El script está diseñado para ejecutarse como un programa independiente. La línea `if __name__ == "__main__":` asegura que la función principal se llame solo cuando el script se ejecuta directamente, no cuando se importa como un módulo.
+
+
+## Autómatas celulares bidimensionales (AC2D)
 
 Los autómatas celulares bidimensionales son una extensión de los autómatas celulares unidimensionales, donde las células no solo tienen vecinos a su izquierda y derecha, sino también arriba y abajo. Esto permite modelar sistemas más complejos y ricos en estructura, como fenómenos en dos dimensiones, como la propagación de ondas, patrones de crecimiento en biología, propagación de fuego, simulación de fluidos, entre otros.
 

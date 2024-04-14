@@ -11,8 +11,8 @@ BPM = 120 * 6  # Beats per minute
 TEMPO_MULTIPLIER = 60.0 / BPM
 
 # Game of Life Variables
-GRID_WIDTH = 40
-GRID_HEIGHT = 30
+GRID_WIDTH = 32#40
+GRID_HEIGHT = 17#30
 CELL_SIZE = 20
 
 # Colors

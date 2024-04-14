@@ -75,6 +75,33 @@ Por ejemplo, en el primer caso de la figura:
 
 Se llama Regla 30 porque en binario, 00011110<sub>2</sub> = 30.
 
+Vamos a desglosar el procedimiento para obtener el siguiente estado en las 8 combinaciones:
+
+**Configuraciones de entrada:** Considera las 8 posibles combinaciones de entrada de las tres células (una célula central y sus dos vecinas izquierda y derecha). Como cada célula puede estar en uno de los dos estados posibles (0 o 1), las combinaciones son 000, 001, 010, 011, 100, 101, 110, y 111.
+
+**Representación binaria de la regla:** La Regla 30 está representada por el número 30 en binario, que es 00011110. Esta representación binaria determina las reglas para el siguiente estado de la célula central en cada una de las 8 combinaciones posibles.
+
+**Correspondencia de bits:** Los 8 bits de la representación binaria (00011110) corresponden a las 8 combinaciones de entrada en orden. De derecha a izquierda, los bits representan el siguiente estado de la célula central para cada combinación de entrada.
+
+Por ejemplo, el bit menos significativo de 00011110 (el bit más a la derecha) es 0. Esto significa que cuando la combinación de entrada es 000, el siguiente estado de la célula central será 0.
+
+**Determinación del siguiente estado:** Para cada combinación de entrada (por ejemplo, 000, 001, 010, 011, 100, 101, 110, 111), el bit correspondiente en la representación binaria de la Regla 30 [00011110] indica el siguiente estado de la célula central.
+
+| Configuración de entrada | Siguiente estado |
+|--------------------------|------------------|
+| 000                      | 0                |
+| 001                      | 1                |
+| 010                      | 1                |
+| 011                      | 1                |
+| 100                      | 1                |
+| 101                      | 0                |
+| 110                      | 0                |
+| 111                      | 0                |
+
+Por ejemplo, si tienes la combinación de entrada 000 y el bit correspondiente en la Regla 30 es 0, el siguiente estado de la célula central será 0.
+
+Por lo tanto, las reglas no son arbitrarias, sino que están determinadas por la representación binaria de la Regla 30, que especifica el siguiente estado de la célula central para cada combinación de entrada de sus vecinas.
+
 
 ## Autómatas celulares bidimencionales (AC2D)
 

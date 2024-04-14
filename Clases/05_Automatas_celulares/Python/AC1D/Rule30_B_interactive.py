@@ -49,9 +49,12 @@ def main():
         draw_cells(screen, cells)
 
         if evolve and current_row < HEIGHT // CELL_SIZE - 1:
-            for x in range(1, WIDTH // CELL_SIZE - 1):
-                next_cells[current_row + 1, x] = rule30(cells[current_row, x-1], cells[current_row, x], cells[current_row, x+1])
-            cells, next_cells = next_cells, cells
+            for x in range(WIDTH // CELL_SIZE):
+                left = cells[current_row, (x-1) % (WIDTH // CELL_SIZE)]
+                center = cells[current_row, x]
+                right = cells[current_row, (x+1) % (WIDTH // CELL_SIZE)]
+                next_cells[current_row + 1, x] = rule30(left, center, right)
+            cells = np.copy(next_cells)  # Use np.copy to create a copy of next_cells
             current_row += 1
 
         pygame.display.flip()

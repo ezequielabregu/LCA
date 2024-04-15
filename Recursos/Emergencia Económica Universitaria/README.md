@@ -21,7 +21,7 @@ Inflación | Salario
 DIC 25,5% | Valor de referencia
 ENE 20,6% | Cobramos lo mismo que en DIC
 FEB 13,2% | Adecuación + 16 %
-MAR ? % | Adecuación + 12 %
+MAR 11 % | Adecuación + 12 %
 ABR ? % | Mes en curso
 
 Lo que en DIC salía $ 100

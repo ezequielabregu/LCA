@@ -8,7 +8,7 @@
 
 #### [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
-#### [- Artista Invitado: Francisco Colasanto 22/ABR](.Recursos/Visita-FranciscoColasanto.md)
+#### [- Artista Invitado: Francisco Colasanto 22/ABR](./Recursos/Visita-FranciscoColasanto.md)
 
 &nbsp;
 

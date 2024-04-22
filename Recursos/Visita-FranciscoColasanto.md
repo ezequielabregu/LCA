@@ -2,7 +2,7 @@
 ### Herramientas digitales avanzadas para audio y video
 **Lunes 22/04 - 11 hs**
 
-Les comparto a continuación un listado de enlaces de las cosas que nos comentó Francisco:
+Les compartimos a continuación un listado de enlaces de las cosas que nos comentó Francisco:
 
 - Su [web personal](https://www.drzoppa.com/)
 - Información sobre su perfil y su vínculo con la empresa que desarrolla el entorno de programación Max: [Cycling '74](https://cycling74.com/certified-trainers/francisco-colasanto)

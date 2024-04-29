@@ -409,3 +409,5 @@ Finalmente, se llama a la función main() para iniciar el juego presionando la b
 [John Conway's Game of Life - An Introduction to celluar Automata](https://beltoforion.de/en/game_of_life/)
 
 [conwaylife.com](https://conwaylife.com/)
+
+[Cellular Automata mega thread](https://nga.178.com/read.php?tid=21761699&rand=998)

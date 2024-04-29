@@ -51,3 +51,12 @@
   -  El caso de la Regla 30
   -  Autómatas celulares bimimencionales (AC2D)
   -  Caso de estudio: Conway's Game of Life
+
+### Visita de Francisco Colasanto
+- [Artista Invitado: Francisco Colasanto](./Recursos/Visita-FranciscoColasanto.md)
+
+### 6. Interpolación y Rampa
+
+- [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
+
+

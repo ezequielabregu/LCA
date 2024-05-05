@@ -241,15 +241,11 @@ Los asistentes IA recomendados para el curso son:
 
 **Codeium:** (Freeware) Codeium es una plataforma de desarrollo de software que utiliza tecnologías de inteligencia artificial para proporcionar funciones avanzadas de autocompletado, corrección de errores, refactorización de código, generación de documentación y otras tareas relacionadas con la escritura de código.
 
-### [GitHub Copilot](https://copilot.github.com/)
-
-GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código. GitHub Copilot es una extensión de Visual Studio Code que utiliza inteligencia artificial para ayudar a los desarrolladores a escribir código.
-
 ### Como aplicar Github Copilot como estudiante
 
 Para configurar Copilot como un Desarrollador Estudiantil autenticado de Github, necesitas seguir estos pasos:
 
-### Configuración de tu Cuenta de Estudiante en GitHub
+#### Configuración de tu Cuenta de Estudiante en GitHub
 
 1. **Crear una cuenta de GitHub:** Si aún no tienes una, crea una cuenta en GitHub. La cuenta de GitHub es gratuita, así que si aún no te has registrado, siéntete libre de hacerlo, ya que es un requisito previo antes de poder acceder al Paquete de Desarrollador Estudiantil. [https://github.com](https://github.com)
 

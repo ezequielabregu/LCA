@@ -12,7 +12,7 @@
 
 ## Repositorios de Estudiantes
 
-![Martín Sobel](https://github.com/MartinSobel/video_sequencer)
+[Martín Sobel](https://github.com/MartinSobel/video_sequencer)
 
 ## Índice de Contenidos
 
@@ -60,3 +60,7 @@
 ### 6. Interpolación y Rampa
 
 - [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
+
+### 7. Tools & Workflow
+
+- [Tools & Workflow](./Clases/07_Tools_&_Workflow/Tools_&_Workflow.md)

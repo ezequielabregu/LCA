@@ -18,19 +18,19 @@ Finalmente, permite una gestión precisa de suscripciones y notificaciones relac
 
 ![CLI](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hhrcbgvutmdmducqkek.png)
 
-La interfaz de línea de comandos (CLI) es una forma de interactuar con un sistema informático a través de comandos de texto. Aunque puede parecer intimidante al principio, aprender a usar la CLI puede ser muy útil para los desarrolladores de software, ya que ofrece una serie de ventajas:
+La interfaz de línea de comandos (CLI) es una forma de interactuar con un sistema informático a través de comandos de texto. Aunque puede parecer intimidante al principio, aprender a usar la CLI puede ser muy útil para los desarrolladores de software, ya que la CLI ofrece una serie de ventajas:
 
-**Eficiencia**: La CLI puede ser mucho más rápida que las interfaces gráficas de usuario (GUI) para realizar ciertas tareas, especialmente aquellas que implican la manipulación de archivos, la instalación de software o la ejecución de scripts.
+**Eficiencia**: puede ser mucho más rápida que las interfaces gráficas de usuario (GUI) para realizar ciertas tareas, especialmente aquellas que implican la manipulación de archivos, la instalación de software o la ejecución de scripts.
 
-**Automatización**: La CLI es ideal para la automatización de tareas repetitivas o secuenciales, ya que permite la creación de scripts y la ejecución de comandos en lotes.
+**Automatización**: es ideal para la automatización de tareas repetitivas o secuenciales, ya que permite la creación de scripts y la ejecución de comandos en lotes.
 
-**Control avanzado**: La CLI ofrece un mayor control sobre el sistema operativo y las aplicaciones, lo que puede ser útil para depurar problemas, realizar ajustes avanzados o realizar tareas que no son posibles a través de la GUI.
+**Control avanzado**: ofrece un mayor control sobre el sistema operativo y las aplicaciones, lo que puede ser útil para depurar problemas, realizar ajustes avanzados o realizar tareas que no son posibles a través de la GUI.
 
-**Portabilidad**: La CLI es generalmente más portátil que las GUI, ya que los comandos suelen ser compatibles entre diferentes sistemas operativos y versiones.
+**Portabilidad**: es generalmente más portátil que las GUI, ya que los comandos suelen ser compatibles entre diferentes sistemas operativos y versiones.
 
-**Aprendizaje**: Aprender a usar la CLI puede ser una excelente manera de familiarizarse con el sistema operativo subyacente y adquirir habilidades técnicas más avanzadas.
+**Aprendizaje**: puede ser una excelente manera de familiarizarse con el sistema operativo subyacente y adquirir habilidades técnicas más avanzadas.
 
-**Flexibilidad**: La CLI ofrece una mayor flexibilidad en la forma en que interactúas con el sistema, lo que puede ser útil para adaptar el entorno de trabajo a tus necesidades específicas.
+**Flexibilidad**: ofrece una mayor flexibilidad en la forma en que interactúas con el sistema, lo que puede ser útil para adaptar el entorno de trabajo a tus necesidades específicas.
 
 Las alternativas más comunes de CLI son `BASH` y `PowerShell`.
 
@@ -106,6 +106,24 @@ El IDE recomendado para el curso es `Visual Studio Code (VSC)`.
 
 VSC es un editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funciones y herramientas para facilitar el desarrollo de software.
 
+Algunas de las extensionas más comunes en VSC para el uso en el curso son:
+
+Claro, aquí tienes una tabla en formato Markdown con algunas de las extensiones populares de Visual Studio Code para diferentes áreas de desarrollo:
+
+| Área           | Extensión VS Code                                        |
+|----------------|-----------------------------------------------------------|
+| C/C++          | [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)                                      |
+| Arduino / ESP32| [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)                     |
+| Markdown       | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)               |
+| Git            | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                        |
+| Github         | [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) |
+| Python         | [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                        |
+| Copilot        | [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)                                  |
+| Processing     | [Processing Language](https://marketplace.visualstudio.com/items?itemName=Tobiah.language-pde)                        |
+| HTML/CSS/JS    | [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)                         |
+| Diagramas        | [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)                        |
+
+Puedes explorar más extensiones en el [Marketplace de VS Code](https://marketplace.visualstudio.com/).
 
 &nbsp;
 

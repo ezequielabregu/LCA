@@ -8,9 +8,11 @@
 
 #### [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
-#### [- Artista Invitado: Francisco Colasanto 22/ABR](./Recursos/Visita-FranciscoColasanto.md)
-
 &nbsp;
+
+## Repositorios de Estudiantes
+
+![Martín Sobel](https://github.com/MartinSobel/video_sequencer)
 
 ## Índice de Contenidos
 
@@ -47,10 +49,10 @@
 ### 5. Automatas Celulares
 
 - [Automatas Celulares](./Clases/05_Automatas_celulares/Automatas_celulares.md)
-  -  Autómatas celulares unidimensionales (AC1D)
-  -  El caso de la Regla 30
-  -  Autómatas celulares bimimencionales (AC2D)
-  -  Caso de estudio: Conway's Game of Life
+- Autómatas celulares unidimensionales (AC1D)
+- El caso de la Regla 30
+- Autómatas celulares bimimencionales (AC2D)
+- Caso de estudio: Conway's Game of Life
 
 ### Visita de Francisco Colasanto
 - [Artista Invitado: Francisco Colasanto](./Recursos/Visita-FranciscoColasanto.md)
@@ -58,5 +60,3 @@
 ### 6. Interpolación y Rampa
 
 - [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
-
-

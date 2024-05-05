@@ -38,6 +38,36 @@ Las alternativas más comunes de CLI son `BASH` y `PowerShell`.
 
 `PowerShell` es el shell predeterminado en Windows.
 
+¡Tienes razón! Aquí tienes una versión corregida del tutorial que incluye los comandos de navegación con `cd`:
+
+
+### Guía de comandos en la Terminal (Bash o PowerShell)
+
+#### Navegación en el Sistema de Archivos
+
+- `cd <directorio>`: Cambiar al directorio especificado.
+- `cd ..`: Retroceder al directorio padre
+- `cd ~`: Cambiar al directorio de inicio del usuario.
+- `cd /`: Cambiar al directorio raíz.
+- `ls` (Bash) / `dir` (PowerShell): Listar archivos y directorios en el directorio actual.
+- `pwd` (Bash) / `Get-Location` (PowerShell): Mostrar la ruta del directorio actual.
+
+#### Manipulación de Archivos y Directorios
+
+- `mkdir <nombre_directorio>`: Crear un nuevo directorio.
+- `touch <nombre_archivo>`: Crear un nuevo archivo.
+- `mv <fuente> <destino>`: Mover o renombrar archivos y directorios.
+- `cp <fuente> <destino>`: Copiar archivos y directorios.
+- `rm <archivo>`: Eliminar un archivo.
+- `rm -r <directorio>`: Eliminar un directorio y su contenido de manera recursiva.
+
+#### Otros Comandos Útiles
+
+- `echo <mensaje>`: Mostrar un mensaje en la terminal.
+- `cat <archivo>`: Mostrar el contenido de un archivo.
+- `grep <patrón> <archivo>`: Buscar un patrón en un archivo.
+- `man <comando>`: Mostrar el manual de ayuda de un comando.
+
 
 &nbsp;
 

@@ -38,9 +38,6 @@ Las alternativas más comunes de CLI son `BASH` y `PowerShell`.
 
 `PowerShell` es el shell predeterminado en Windows.
 
-¡Tienes razón! Aquí tienes una versión corregida del tutorial que incluye los comandos de navegación con `cd`:
-
-
 ### Guía de comandos en la Terminal (Bash o PowerShell)
 
 #### Navegación en el Sistema de Archivos

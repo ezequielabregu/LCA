@@ -2,15 +2,17 @@
 
 [**<-- VOLVER AL INICIO**](/README.md)
 
-## Email @
-
 ![Email](https://assets-global.website-files.com/647462e80cfc7c590371357c/65475731461d903a74d1c4de_Software-Developers-Engineers-Directors-Managers-email-list.jpg)
+
+## Email @
 
 Mantener un correo electrónico separado para el trabajo de desarrollo de software y algoritmos ofrece múltiples beneficios. Primero, ayuda a separar tus actividades profesionales de las personales, facilitando una comunicación clara y organizada, especialmente en proyectos múltiples o con diferentes clientes. Además, contribuye a mantener una bandeja de entrada ordenada y enfocada en las comunicaciones relacionadas con el desarrollo de software, reduciendo la posibilidad de perder mensajes importantes. 
 
 Por otro lado, garantiza la seguridad y privacidad de las comunicaciones laborales, especialmente en proyectos sensibles. Un correo electrónico con un dominio profesional también refuerza tu imagen como experto en desarrollo de software al comunicarte con colegas, clientes y reclutadores. 
 
 Finalmente, permite una gestión precisa de suscripciones y notificaciones relacionadas con el desarrollo de software, mejorando la eficiencia en la gestión de comunicaciones en este ámbito.
+
+&nbsp;
 
 ## Command Line Interface (CLI)
 
@@ -30,11 +32,14 @@ La interfaz de línea de comandos (CLI) es una forma de interactuar con un siste
 
 **Flexibilidad**: La CLI ofrece una mayor flexibilidad en la forma en que interactúas con el sistema, lo que puede ser útil para adaptar el entorno de trabajo a tus necesidades específicas.
 
-Las alternativas más comunes son de la CLI son `BASH` y `PowerShell`.
+Las alternativas más comunes de CLI son `BASH` y `PowerShell`.
 
 `Bash` es el shell predeterminado en la mayoría de las distribuciones de Linux y macOS.
 
 `PowerShell` es el shell predeterminado en Windows.
+
+
+&nbsp;
 
 ## IDE (Integrated Development Environment)
 
@@ -72,7 +77,10 @@ El IDE recomendado para el curso es `Visual Studio Code (VSC)`.
 
 [Descargar Visual Studio Code](https://code.visualstudio.com/)
 
-VSC es un editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funciones y herramientas para facilitar el desarrollo de software. 
+VSC es un editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funciones y herramientas para facilitar el desarrollo de software.
+
+
+&nbsp;
 
 ## Version Control: Git y Github / Gitlab
 
@@ -105,7 +113,7 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 
 ![Visual Git Flow](git-visual.jpg)
 
-### 1: Instalar Git localmente
+#### 1: Instalar Git localmente
 
 Instalar Git en tu computadora.
 
@@ -113,7 +121,7 @@ Puedes descargarlo desde el [sitio oficial de Git](https://git-scm.com/) y segui
 
 **Tip:** _[Cómo instalar Git en Windows - Tutorial 2023](https://kinsta.com/es/base-de-conocimiento/instalar-git/)_
 
-### 2: Configurar Git
+#### 2: Configurar Git
 
 Después de instalar Git, necesitas configurar tu nombre de usuario y tu dirección de correo electrónico. Abre tu terminal y ejecuta los siguientes comandos, sustituyendo "TuNombre" y "tu@email.com" con tus propias credenciales:
 
@@ -128,7 +136,7 @@ git config --global user.email "Tu@Email.com"
 git config --list
 ```
 
-### 3: Crear un repositorio local
+#### 3: Crear un repositorio local
 
 Abre tu terminal y navega al directorio donde deseas crear tu nuevo proyecto.
 
@@ -142,7 +150,7 @@ Ejecuta el siguiente comando para iniciar un nuevo repositorio Git:
 cd ruta/del/directorio
 ```
 
-### 4: Agregar archivos al repositorio (stage)
+#### 4: Agregar archivos al repositorio (stage)
 
 Coloca tus archivos en el directorio del proyecto.
 
@@ -150,13 +158,13 @@ Usa el siguiente comando para añadir todos los archivos al área de preparació
 
 `git add .`
 
-### 5: Realizar un commit
+#### 5: Realizar un commit
 
 Después de agregar archivos, ejecuta el siguiente comando para realizar un commit:
 
 `git commit -m "Mensaje descriptivo del commit"`
 
-### 6: Crear un repositorio en GitHub
+#### 6: Crear un repositorio en GitHub
 
 Visita GitHub e inicia sesión en tu cuenta.
 
@@ -164,7 +172,7 @@ Haz clic en el botón "+" en la esquina superior derecha y selecciona "New repos
 
 Dale un nombre a tu repositorio, añade una descripción opcional y haz clic en "Create repository".
 
-### 7: Conectar el repositorio local con GitHub
+#### 7: Conectar el repositorio local con GitHub
 
 En tu terminal, ejecuta el siguiente comando, sustituyendo nombreusuario y nuevorepositorio con tu nombre de usuario y el nombre del repositorio en GitHub:
 
@@ -178,7 +186,7 @@ Luego, sube tus cambios al repositorio remoto:
 
 ### Otras operaciones frecuentes
 
-### Verificar el estado del repositorio local
+#### Verificar el estado del repositorio local
 
 Para ver el estado de tu repositorio local, ejecuta el siguiente comando:
 
@@ -186,7 +194,7 @@ Para ver el estado de tu repositorio local, ejecuta el siguiente comando:
 git status
 ```
 
-### Verificar el historial de commits
+#### Verificar el historial de commits
 
 Para ver el historial de commits, ejecuta el siguiente comando:
 
@@ -194,7 +202,7 @@ Para ver el historial de commits, ejecuta el siguiente comando:
 git log
 ```
 
-### Clonar un repositorio
+#### Clonar un repositorio
 
 Para clonar un repositorio existente, ejecuta el siguiente comando en tu terminal:
 
@@ -204,7 +212,7 @@ git clone direccion-del-repositorio-externo.git
 
 El repositorio se clonará en tu directorio actual.
 
-### Verificar el estado del repositorio remoto
+#### Verificar el estado del repositorio remoto
 
 Para ver el estado del repositorio remoto, ejecuta el siguiente comando:
 
@@ -218,6 +226,9 @@ Para verificar si hubo cambios en el repositorio remoto, puedes usar el comando 
 git fetch origin
 git diff HEAD..origin/master
 ```
+
+
+&nbsp;
 
 ## AI Code Assistants
 
@@ -269,13 +280,15 @@ Las solicitudes enviadas a veces se revisan dentro de la hora o a más tardar de
 
 Referencias: [Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an Authenticated Student Developer](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279)
 
-&nbsp;
 
 ### [Codeium](https://codeium.com/)
 
 Alternativa gratuita a Github Copilot.
 
 **Codeium** es una herramienta de inteligencia artificial que agiliza y simplifica la programación al automatizar tareas mundanas, acelerar el desarrollo y aumentar la precisión. Sus algoritmos impulsados por IA facilitan el acceso a su amplia biblioteca de fragmentos de código y plantillas. Además, ofrece una interfaz de usuario intuitiva que permite a los usuarios encontrar rápidamente el código que necesitan.
+
+
+&nbsp;
 
 ## Documentación de proyectos: Markdown
 

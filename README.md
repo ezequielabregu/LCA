@@ -12,7 +12,9 @@
 
 ## Repositorios de Estudiantes
 
-[Martín Sobel](https://github.com/MartinSobel/video_sequencer)
+[MARTÍN SOBEL](https://github.com/MartinSobel/video_sequencer)
+
+[FACUNDO TOMAS ALVAREZ FREIJOMIL](https://github.com/outofnames2/final_lca)
 
 ## Índice de Contenidos
 

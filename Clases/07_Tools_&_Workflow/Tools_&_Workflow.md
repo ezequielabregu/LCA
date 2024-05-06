@@ -100,6 +100,10 @@ Un entorno de desarrollo integrado (IDE) es una herramienta que combina varias f
 
 **Compatibilidad con múltiples plataformas**: Algunos IDEs son compatibles con múltiples sistemas operativos, lo que te permite utilizar la misma herramienta en diferentes entornos de desarrollo.
 
+#### Visual Studio Code
+
+![Visual Studio Code](https://openexpoeurope.com/wp-content/uploads/2019/11/VSCode.png)
+
 El IDE recomendado para el curso es `Visual Studio Code (VSC)`.
 
 [Descargar Visual Studio Code](https://code.visualstudio.com/)
@@ -338,6 +342,8 @@ Alternativa gratuita a Github Copilot.
 ## Documentación de proyectos: Markdown
 
 ![Markdown](https://miguelpaz.github.io/assets/images/markdownpreview.png)
+
+[ver Guía en Español](https://code.visualstudio.com)
 
 Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para escribir documentación de proyectos, tutoriales, guías, informes y otros tipos de contenido en formato de texto plano. Markdown es fácil de aprender, flexible y compatible con una amplia gama de plataformas y herramientas, lo que lo convierte en una excelente opción para escribir documentación de proyectos de software.
 

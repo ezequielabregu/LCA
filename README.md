@@ -16,7 +16,7 @@
 
 [FACUNDO TOMAS ALVAREZ FREIJOMIL](https://github.com/outofnames2/final_lca)
 
-[SABRINA ÁLVAREZ](https://github.com/multiv-ac/LCA_automata-celular)
+[SABRINA GARCÍA](https://github.com/multiv-ac/LCA_automata-celular)
 
 [MAYA VERA](https://github.com/M11SH4/CreacionAlgoritmica)
 

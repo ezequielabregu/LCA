@@ -16,6 +16,8 @@
 
 [FACUNDO TOMAS ALVAREZ FREIJOMIL](https://github.com/outofnames2/final_lca)
 
+[SABRINA ÁLVAREZ](https://github.com/multiv-ac/LCA_automata-celular)
+
 ## Índice de Contenidos
 
 ### 1. Presentación del curso

@@ -18,6 +18,8 @@
 
 [SABRINA ÁLVAREZ](https://github.com/multiv-ac/LCA_automata-celular)
 
+[MAYA VERA](https://github.com/M11SH4/CreacionAlgoritmica)
+
 ## Índice de Contenidos
 
 ### 1. Presentación del curso

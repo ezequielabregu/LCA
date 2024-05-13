@@ -14,7 +14,7 @@ Y comentamos dos variaciones, disponibles en este [enlace](https://drive.google.
 
 Luego, exploramos la interpolación como la obtención o generación de nuevos puntos intermedios entre otros preexistentes. Es el cálculo o método a partir del cual se puede insertar algo entre medio de otras cosas, considerando la relación entre lo insertado y su contexto de inserción.
 
-Comentamos y profundizamos el concepto con imágenes hasta llegar a la fórmula de Newton, disponible [aquí](https://drive.google.com/drive/folders/17VHtkZ8TALdHsH-ianI7JoFYGqRhXlKU?usp=sharing).
+Comentamos y profundizamos el concepto con imágenes hasta llegar a ![la fórmula de Newton:](https://github.com/ezequielabregu/LCA/blob/main/Clases/06_Interpolacion_y_Rampa/06-interpolacion_lineal_formula_Newton.png)
 
 Luego, vimos la implementación de esa fórmula en PD+Gem. Primero con una única interpolación a partir de dos puntos (cada uno definido por sus coordenadas X, Y) y un valor intermedio de X, obtenemos el valor de Y para ese punto intermedio según el método de Newton de interpolación lineal. [Patches para esta implementación](https://drive.google.com/drive/folders/17ukodswhS1l_XcQYsZynUOMLK4oDWtNm?usp=sharing).
 

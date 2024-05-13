@@ -8,7 +8,7 @@ De la mano del contador, la interpolación y la rampa, vimos cómo el tiempo del
 
 Como punto de partida, tomamos el siguiente diagrama de un contador:
 
-![Diagrama del contador](https://url-del-diagrama.com)
+![Diagrama del contador](https://github.com/ezequielabregu/LCA/blob/main/Clases/06_Interpolacion_y_Rampa/00-contador-bucle_while.jpg)
 
 Y comentamos dos variaciones, disponibles en este [enlace](https://drive.google.com/drive/folders/1HCSf8EDDRIruEkqJCtuJ4mg7oz2nwpxd?usp=sharing).
 

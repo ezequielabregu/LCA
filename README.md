@@ -72,7 +72,7 @@
 ### 6. Interpolación y Rampa
 
 - [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
-- [Introducción a GEM](./Clases/06_Interpolacion_y_Rampa/README.md#introducción-a-gem)
+- [Introducción a GEM](./Clases/06_Interpolacion_y_Rampa/README.md#introducción-a-GEM)
 
 ### 7. Tools & Workflow
 

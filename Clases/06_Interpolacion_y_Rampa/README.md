@@ -34,7 +34,7 @@ Y aquí tienen el enlace directo a una captura de la recreación: [Captura](http
 
 ---
 
-## Introducción a GEM
+## GEM
 
 Les comparto una introducción a GEM, dividida en tres partes: tres videos con tres patches (uno para cada uno).
 

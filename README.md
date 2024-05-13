@@ -6,6 +6,10 @@
 
 #### [- Pautas del Trabajo Práctico Final LCA 2024](./Recursos/UNTREF-LCA-2024-Pautas_TP_Final.md)
 
+### [Explorando Pure Data: Curso de Audio Digital +4 hs (Video Largo)](https://youtu.be/hh4IlUmLqA8)
+
+### [Explorando Pure Data: Curso de Audio Digital +4 hs (Playlist)](https://www.youtube.com/playlist?list=PLjB0cck_8awyAaJYIA0JB-vsMnxAbxBHV)
+
 #### [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
 &nbsp;
@@ -19,6 +23,8 @@
 [SABRINA GARCÍA](https://github.com/multiv-ac/LCA_automata-celular)
 
 [MAYA VERA](https://github.com/M11SH4/CreacionAlgoritmica)
+
+[DAI](https://github.com/ksdn1113/amenbreaker)
 
 ## Índice de Contenidos
 

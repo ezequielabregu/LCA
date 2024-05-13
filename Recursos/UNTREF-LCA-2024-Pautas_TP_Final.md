@@ -13,7 +13,9 @@ _Las pautas pueden sufrir cambios durante la cursada, la versión definitiva se 
 
 &nbsp;
 
-**FECHA DE ENTREGA:** LUNES 10/JUN. 
+**FECHA DE PRE-ENTREGA:** LUNES 03/JUN.
+
+**FECHA DE ENTREGA:** LUNES 10/JUN.
 
 **FORMATO DEL TRABAJO**: PROYECTO DE DESARROLLO E IMPLEMENTACIÓN ALGORÍTMICA BAJO CRITERIOS ESTÉTICOS. 
 

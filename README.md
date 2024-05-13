@@ -72,7 +72,12 @@
 ### 6. Interpolación y Rampa
 
 - [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
+- [Introducción a GEM](./Clases/06_Interpolacion_y_Rampa/README.md#introducción-a-gem)
 
 ### 7. Tools & Workflow
 
 - [Tools & Workflow](./Clases/07_Tools_&_Workflow/Tools_&_Workflow.md)
+  
+### 8. Aleatoriedad
+
+- [Aleatoriedad](./Clases/08_Aleatoriedad/README.md)

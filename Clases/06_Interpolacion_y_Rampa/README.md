@@ -1,4 +1,4 @@
-# Explorando Interpolación y Rampa
+# Interpolación y Rampa
 
 En este encuentro partimos del algoritmo clave de un contador y desde ahí profundizamos hacia los conceptos de interpolación y rampa. Previamente, en ["04-bucles-e-iteraciones"](https://github.com/ezequielabregu/LCA/blob/main/Clases/04_Bucles_e_Iteraciones/README.md), exploramos algoritmos para la creación de imágenes estáticas. La evolución de esos algoritmos tenía un desarrollo temporal independiente de sus resultados, imágenes permanentes e invariables en el tiempo.
 

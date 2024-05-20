@@ -2,9 +2,9 @@
 
 #### [- Información y Recursos del curso - LCA 2024](./Recursos/info_curso.md)
 
-#### [- Link 1 Google Meet](https://meet.google.com/rdu-bfew-quf)
+#### [- Link 1 SALA A MAIN Google Meet](https://meet.google.com/rdu-bfew-quf)
 
-#### [- Link 2 Google Meet](https://meet.google.com/cdy-xdts-gnc)
+#### [- Link 2 SALA B ALT Google Meet](https://meet.google.com/cdy-xdts-gnc)
 
 #### [- Pautas del Trabajo Práctico Final LCA 2024](./Recursos/UNTREF-LCA-2024-Pautas_TP_Final.md)
 

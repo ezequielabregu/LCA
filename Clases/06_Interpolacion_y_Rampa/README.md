@@ -32,6 +32,12 @@ Finalmente, revisamos el patch de recreación de la obra de Manfred Mohr que se 
 
 Y aquí tienen el enlace directo a una captura de la recreación: [Captura](https://drive.google.com/file/d/1cB7EAy0duXsg90m7psZGnYW-Z4Fqw_99/view?usp=sharing)
 
+Videos de clase de otro curso:
+[parte 1](https://www.youtube.com/watch?v=dH5kJSNjLEo)
+[parte 2](https://www.youtube.com/watch?v=mAhCZJKfnG0) 
+[parte 3](https://www.youtube.com/watch?v=VHKu50m4Ys0)
+
+
 ---
 
 ## GEM

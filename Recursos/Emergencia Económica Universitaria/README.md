@@ -1,3 +1,19 @@
+# Actualización sobre la Situación Económica Universitaria
+
+**Editado el 29 de mayo**
+
+Les compartimos actualizaciones sobre la situación económica universitaria, ya que hubo un gran avance en la adecuación presupuestaria, a pesar de que los salarios aún no encuentran una negociación acorde a la realidad.
+
+El Consejo Interuniversitario Nacional (CIN), que reúne y representa a los rectores de las universidades de todo el país, publicó un comunicado el 27 de mayo, luego de una reunión con las autoridades nacionales. Les compartimos el comunicado completo para que puedan leerlo sin nuestra mediación.
+
+Destacamos que agradecen a "la sociedad argentina por su masivo y conmovedor acompañamiento en defensa de la universidad pública, que ha permitido comenzar a encontrar un principio de solución para la grave situación presupuestaria." Parte de esa solución es "un ajuste por inflación del 270% para gastos de funcionamiento con el consecuente cronograma de pagos hasta fin de año."
+
+[Leer el comunicado completo](Recursos/Emergencia%20Econ%C3%B3mica%20Universitaria/Comunicado-CIN-27-mayo-2024.pdf)
+
+
+****************************
+
+
 Grupo, nos imaginamos que estarán al tanto de la situación de crisis que atravesamos en las universidades nacionales.
 Nuestros encuentros son los lunes a la mañana, y nos cuesta mucho ponernos hablar de este tema tan triste al inicio temprano de la semana. 
 

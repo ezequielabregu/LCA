@@ -28,6 +28,8 @@
 
 [DAI](https://github.com/ksdn1113/amenbreaker)
 
+[GONZALO FONTANA](https://github.com/FontanaUNTREF/Latidos-en-la-distancia)
+
 ## Índice de Contenidos
 
 ### 1. Presentación del curso

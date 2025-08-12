@@ -38,6 +38,6 @@ def euclidean(pulses, steps):
 
 # Variables
 pulses = 4
-steps = 11
+steps = 9
 euclidean_rhythm = euclidean(pulses, steps)
 print(euclidean_rhythm) 

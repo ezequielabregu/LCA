@@ -1,34 +1,23 @@
 # Laboratorio de Creación Algorítmica (LCA)
 
-#### [- Información y Recursos del curso - LCA 2024](./Recursos/info_curso.md)
 
-#### [- Link 1 SALA A MAIN Google Meet](https://meet.google.com/rdu-bfew-quf)
 
-#### [- Link 2 SALA B ALT Google Meet](https://meet.google.com/cdy-xdts-gnc)
+### :computer: [- Link Google Meet del curso](https://meet.google.com/rdu-bfew-quf)
 
-#### [- Pautas del Trabajo Práctico Final LCA 2024](./Recursos/UNTREF-LCA-2024-Pautas_TP_Final.md)
+#### :information_source: [- Información y Recursos del curso - LCA](./Recursos/info_curso.md)
 
-### [- Explorando Pure Data: Curso de Audio Digital +4 hs (Video Largo)](https://youtu.be/hh4IlUmLqA8)
+#### :toolbox: [- Pautas del Trabajo Práctico Final LCA](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
 
-### [- Explorando Pure Data: Curso de Audio Digital +4 hs (Playlist)](https://www.youtube.com/playlist?list=PLjB0cck_8awyAaJYIA0JB-vsMnxAbxBHV)
+#### :tv: [- Explorando Pure Data: Curso de Audio Digital +4 hs (Video Largo)](https://youtu.be/hh4IlUmLqA8)
 
-#### [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
+#### :tv: [- Explorando Pure Data: Curso de Audio Digital +4 hs (Playlist)](https://www.youtube.com/playlist?list=PLjB0cck_8awyAaJYIA0JB-vsMnxAbxBHV)
+
+#### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
 &nbsp;
 
 ## Repositorios de Estudiantes
 
-[MARTÍN SOBEL](https://github.com/MartinSobel/video_sequencer)
-
-[FACUNDO TOMAS ALVAREZ FREIJOMIL](https://github.com/outofnames2/final_lca)
-
-[SABRINA GARCÍA](https://github.com/multiv-ac/LCA_automata-celular)
-
-[MAYA VERA](https://github.com/M11SH4/CreacionAlgoritmica)
-
-[DAI](https://github.com/ksdn1113/amenbreaker)
-
-[GONZALO FONTANA](https://github.com/FontanaUNTREF/Latidos-en-la-distancia)
 
 ## Índice de Contenidos
 

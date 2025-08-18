@@ -15,3 +15,5 @@
 [Janice Lourie: A Pioneer in the Fusion of Art & Software](https://www.tuftsdaily.com/article/2020/10/janice-lourie-a-pioneer-in-the-fusion-of-art-software)
 
 [The Book of Shaders - Patricio Gonzalez Vivo](https://thebookofshaders.com/)
+
+[International Obfuscated C Code Contest](https://www.ioccc.org/authors.html)

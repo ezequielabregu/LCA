@@ -16,7 +16,7 @@
 
 #### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
-### :link: [Links por Clase](/Recursos/links_clases.md)
+#### :link: [Links por Clase](/Recursos/links_clases.md)
 
 &nbsp;
 

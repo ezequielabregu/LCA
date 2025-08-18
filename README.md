@@ -29,6 +29,8 @@
 
 - [Version Control: Git y Github Guia Básica](./Clases/01_Presentacion_del_curso/git/Git_guia_basica.md)
 - Definición de concepto operativo: Algoritmo. Introducción al pensamiento algorítmico. <br>
+  - [Diccionario Oxford](https://drive.google.com/file/d/1TIDCBbJTZpgEJtpYnyuglu-p3sI4iDjy/view?usp=drive_link)
+  - [RAE](https://drive.google.com/file/d/17XjBiNTm28ymX2x_6UdCtfgWQLxpxIb4/view?usp=drive_link)
   Algunos ejemplos comentados en el encuentro:
   - [ej ordenamiento de valores danza 1](https://drive.google.com/file/d/1axTzga7bj5Rhq9M4Wf4lH13-cYiKjawi/view?usp=drive_link)
   - [ej ordenamiento de valores danza 2](https://drive.google.com/file/d/1lt_GL44HhyX5YzscPXvzDvxHFFqg7m3I/view?usp=drive_link)  

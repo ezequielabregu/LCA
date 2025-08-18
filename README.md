@@ -12,11 +12,13 @@
 
 #### :tv: [- Explorando Pure Data: Curso de Audio Digital +4 hs (Playlist)](https://www.youtube.com/playlist?list=PLjB0cck_8awyAaJYIA0JB-vsMnxAbxBHV)
 
+#### :green_book: [Code That Sounds - Ebook](https://ezequielabregu.github.io/code-that-sounds/)
+
 #### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
 &nbsp;
 
-## Repositorios de Estudiantes
+## Repositorios de Estudiante
 
 
 ## Índice de Contenidos

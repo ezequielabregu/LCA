@@ -1,4 +1,4 @@
-# Repositorio de Links por clases
+# Repositorio de Links por Clases 2025
 
 ## Clase 1 - Algoritmos y Arte
 
@@ -14,4 +14,4 @@
 
 [Janice Lourie: A Pioneer in the Fusion of Art & Software](https://www.tuftsdaily.com/article/2020/10/janice-lourie-a-pioneer-in-the-fusion-of-art-software)
 
-[The Book of Shaders](https://thebookofshaders.com/)
+[The Book of Shaders - Patricio Gonzalez Vivo](https://thebookofshaders.com/)

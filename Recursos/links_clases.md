@@ -20,3 +20,11 @@
 
 ## Clase 2 - Algoritmos y Arte
 [Alfio Demestre](https://alfiodemestre.my.canva.site/alfio-demestre-obras)
+
+[NFT de grupo Biopus](https://www.fxhash.xyz/u/Biopus)
+
+[Ejemplo que compartieron de un proceso técnico recreado por "traccion a sangre"](https://youtu.be/MNzBFgwkU0A?si=3LnZO3HDoZr68Bih)
+
+[Plataforma de códigos breves y temáticos corriendo online](https://www.dwitter.net/)
+
+[Recurso matemático que compartió Roy ](https://es.wikipedia.org/wiki/Atractor_de_Lorenz)

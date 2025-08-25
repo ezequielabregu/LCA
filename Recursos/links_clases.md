@@ -17,3 +17,6 @@
 [The Book of Shaders - Patricio Gonzalez Vivo](https://thebookofshaders.com/)
 
 [International Obfuscated C Code Contest](https://www.ioccc.org/authors.html)
+
+## Clase 2 - Algoritmos y Arte
+[Alfio Demestre](https://alfiodemestre.my.canva.site/alfio-demestre-obras)

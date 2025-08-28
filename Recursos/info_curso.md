@@ -30,7 +30,7 @@ Virtual
 
 ## Programa
 
-[Programa de LCA 2024](https://docs.google.com/document/d/1c3LM3GLJ8qWYJLb19YX3Yb9nrQzWjXFXlngYGLXKIkY/edit?usp=drive_link)
+[Programa de LCA 2024](https://docs.google.com/document/d/1yjmXjvqYqB_COu84Aet5cCdCclrRv7Sn_5pmZGaDLuQ/edit?usp=sharing)
 
 ## Formato
 

@@ -28,3 +28,10 @@
 [Plataforma de códigos breves y temáticos corriendo online](https://www.dwitter.net/)
 
 [Recurso matemático que compartió Roy ](https://es.wikipedia.org/wiki/Atractor_de_Lorenz)
+
+## Clase 3 - Repetición
+[Versión en alta resolucion de uno de los trabajos de Vera Molnar](https://spalterdigital.com/artworks/223/)
+
+[plataforma que compartió Roy](https://screenpond.cool/)
+
+[Peter Vogel, antecedentes Eirik Brandal](https://www.petervogel-heritage.de/en/start-en/)

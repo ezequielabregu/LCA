@@ -40,20 +40,23 @@
 
 - [Algoritmos y Arte](./Clases/02_Algoritmos_y_Arte/README.md)
 
-### 3. Algoritmos, Arrays y Secuencias
+### 3. Bucle e Iteracion
+
+ - Casos de Estudio: Obras de Vera Molnar y Clapping Music de Steve Reich. 
+ - Diagramas de Flujo
+ - Recorrido entorno a las ideas de Bucle e Iteración y ejemplificación en código.
+ - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
+
+### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
+
+### 4. Algoritmos, Arrays y Secuencias
 
 - [Algoritmos, Arrays y Secuencias](./Clases/03_Algoritmos_arrays_secuencias/arrays_and_sequencers.md)
 - [Algoritmo de Euclides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_euclides.md)
   - [Slides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_Euclides_y_Ritmo.pdf)
   - [Paper](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
  
-### 4. Bucle e Iteracion
-
- - Casos de Estudio: Clapping Music de Steve Reich y Vera Molnar. 
- - Diagramas de Flujo
- - Recorrido entorno a las ideas de Bucle e Iteración, terminología y ejemplificación en código.
- - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
-
+    
 ### 5. Automatas Celulares
 
 - [Automatas Celulares](./Clases/05_Automatas_celulares/Automatas_celulares.md)

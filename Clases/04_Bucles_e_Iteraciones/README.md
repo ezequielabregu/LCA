@@ -1,6 +1,12 @@
-# **Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 1**
+&nbsp;
+# **Caso de Estudio #1: Vera Molnar**
+  - Algunas obras [enlace](https://drive.google.com/drive/folders/1B9neBGlZ-dOk9J2MskYJcA8b5VvUwpCL?usp=sharing)
+
+__________
+&nbsp;
+# **Caso de Estudio #2: Steve Reich - Clapping Music**
   - Esta versión está grabada en stereo, se escuchan unas palmas de cada lado [enlace](https://www.youtube.com/watch?v=liYkRarIDfo&t=4s)
-  - Por Anne Teresa DeKeersmaeker [enalce](https://www.youtube.com/watch?v=HBWWF3ArW-w&t=16s)
+  - Proyección hacia la danza, por Anne Teresa DeKeersmaeker [enalce](https://www.youtube.com/watch?v=HBWWF3ArW-w&t=16s)
 
   - Algunas versiones de la partitura [enlace](https://drive.google.com/drive/folders/1FXfUqmJIjWh3hawgyhNTokPfaLWVshQu?usp=drive_link)
 
@@ -42,27 +48,20 @@ __________
 &nbsp;  
 __________
 &nbsp;
-# **Caso de Estudio #2: Vera Molnar**
-  - Algunas obras [enlace](https://drive.google.com/drive/folders/1B9neBGlZ-dOk9J2MskYJcA8b5VvUwpCL?usp=sharing)
+# **Introducción a GEM**
+- En este paquete hay muchas mas cosas que las que vimos en el encuentro. Son tres partes. La primera es lo que vimos, la segunda las bases para leer videos, y la tercera un sistema que armamos en el Labo 3 hace unos años para controlar la sintesis de sonido a partir del análisis de imágenes.
+&nbsp;  
+	  - [Descarga](https://drive.google.com/file/d/1Ftbe83dqaWaxvl1moQZoLmkS5fgbouDT/) &nbsp;  
 
+
+&nbsp;  
 __________
+
 &nbsp;
-# **Recorrido entorno a la idea de Bucles e Iteración**
+# **Recorrido entorno a la idea de Bucles**
 Paquete de patches que vimos en el encuentro. Incluye recreación del trabajo de Vera Molnar "Structures Of Squares" (1974)
 [enlace](https://drive.google.com/drive/folders/1kpeedV5Vlzr4V3wLeHolbSP_AidbMz0u?usp=sharing)
 
 __________
-&nbsp;
-# **Caso de Estudio 1: Steve Reich - Clapping Music | PARTE 2**
-Recreación y proyección de Clapping Music en PD [enlace](https://drive.google.com/drive/folders/1CV3jz4gH7Pai8Q_9EPaFatEiAW86DGzJ?usp=sharing)
-
-__________
-&nbsp;
-## **BONUS**
-Algunas de las cosas audiovisuales que comentamos en grupo hacia el final del encuentro:
-
-  - [Martin Arnold - 1993 - Passage A L'act](https://www.youtube.com/watch?v=P5PVwiQ9djA)
-
-  - [Dúo "Basura"](https://www.youtube.com/@bbaassuurraa) (Valentin Pelisch y Pablo Boltshauser)
      
 

@@ -47,7 +47,9 @@
  - Recorrido entorno a las ideas de Bucle e Iteración y ejemplificación en código.
  - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
 
+---------------------------
 ### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
+---------------------------
 
 ### 4. Algoritmos, Arrays y Secuencias
 

@@ -1,4 +1,4 @@
-#N canvas 204 25 994 633 12;
+#N canvas 253 122 994 633 12;
 #X obj 145 194 until;
 #X obj 146 392 expr (($f1 + $f2) * $f3) % $f4, f 89;
 #X text 527 104 ((COUNT+ROTATION)*HITS)%STEPS;
@@ -13,7 +13,7 @@
 #X obj 464 280 s hits;
 #X obj 164 418 r hits;
 #X msg 146 469 add2 \$1;
-#X msg 146 513 1 0 0 1 0 0 1 0;
+#X msg 146 513 1 1 1 0 1 1 1 0 1;
 #X msg 222 477 set;
 #X floatatom 513 284 5 0 0 0 - - - 0;
 #X obj 222 454 r steps;
@@ -33,8 +33,7 @@
 #X obj 513 318 t b b f;
 #X msg 241 203 0;
 #X text 23 515 Euclid serie >>>;
-#X obj 144 222 f;
-#X obj 173 222 + 1;
+#X obj 146 222 counter;
 #X connect 0 0 34 0;
 #X connect 1 0 10 0;
 #X connect 5 0 1 0;
@@ -68,7 +67,5 @@
 #X connect 31 0 23 0;
 #X connect 31 1 1 0;
 #X connect 31 2 1 2;
-#X connect 32 0 34 1;
-#X connect 34 0 35 0;
+#X connect 32 0 34 0;
 #X connect 34 0 5 0;
-#X connect 35 0 34 1;

@@ -6,7 +6,7 @@
 
 ## :jigsaw: [- Ejercicios](https://github.com/ezequielabregu/LCA/issues?q=state%3Aopen%20label%3A2025)
 
-## :toolbox: [- Pautas del Trabajo Práctico Final LCA](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
+## :toolbox: [- Pautas del Trabajo Práctico Final](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
 
 ### :link: [- Links por Clase](/Recursos/links_clases.md)
 

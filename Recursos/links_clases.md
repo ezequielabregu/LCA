@@ -35,3 +35,22 @@
 [plataforma que compartió Roy](https://screenpond.cool/)
 
 [Peter Vogel, antecedentes Eirik Brandal](https://www.petervogel-heritage.de/en/start-en/)
+
+## Claes 4 - Algoritmos, arrays y secuencias
+
+Recomendaciones para diagramar (aparte de Miro)
+- [Excalidraw](https://excalidraw.com/)
+- [Tldraw](https://www.tldraw.com/)
+
+Sintetizador modulares online
+- [PixelSynth](https://ojack.xyz/PIXELSYNTH/)
+
+MIDI virtual port
+
+- [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
+
+Online virtual piano
+- [Muted Piano](https://muted.io/piano/)
+
+Live coding
+- [Strudel](https://strudel.cc/)

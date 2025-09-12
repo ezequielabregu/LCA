@@ -2,11 +2,15 @@
 
 
 
-### :computer: [- Link Google Meet del curso](https://meet.google.com/rdu-bfew-quf)
+## :computer: [- Link Google Meet del curso](https://meet.google.com/rdu-bfew-quf)
+
+## :jigsaw: [- Ejercicios](https://github.com/ezequielabregu/LCA/issues?q=state%3Aopen%20label%3A2025)
+
+## :toolbox: [- Pautas del Trabajo Práctico Final](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
+
+### :link: [- Links por Clase](/Recursos/links_clases.md)
 
 #### :information_source: [- Información y Recursos del curso - LCA](./Recursos/info_curso.md)
-
-#### :toolbox: [- Pautas del Trabajo Práctico Final LCA](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
 
 #### :tv: [- Explorando Pure Data: Curso de Audio Digital +4 hs (Video Largo)](https://youtu.be/hh4IlUmLqA8)
 
@@ -14,9 +18,7 @@
 
 #### :green_book: [Code That Sounds - Ebook](https://ezequielabregu.github.io/code-that-sounds/)
 
-#### :link: [- Links por Clase](/Recursos/links_clases.md)
-
-#### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
+### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
 
 &nbsp;
 

@@ -36,7 +36,7 @@
 
 [Peter Vogel, antecedentes Eirik Brandal](https://www.petervogel-heritage.de/en/start-en/)
 
-## Claes 4 - Algoritmos, arrays y secuencias
+## Clase 4 - Algoritmos, arrays y secuencias
 
 Recomendaciones para diagramar (aparte de Miro)
 - [Excalidraw](https://excalidraw.com/)
@@ -54,3 +54,18 @@ Online virtual piano
 
 Live coding
 - [Strudel](https://strudel.cc/)
+
+## Clase 5 - Autómatas Celulares
+
+[Audiostellar](https://audiostellar.xyz/) (herramienta de software libre)
+
+God-Machine: Videojuego donde se pueden generar distintos patrones a partir de combinar autómatas celulares.
+- [Código](https://github.com/GarrettGunnell/God-Machine) (es software libre 😄)
+- [Cómo está hecho](https://www.youtube.com/watch?v=I1JBiZrZ_XM)
+
+[Cellpond]([url](https://cellpond.cool/)):
+- [Código](https://github.com/TodePond/CellPond) (es software libre 😄)
+- Videos (no todos muestran la versión más actualizada):
+  - [Cells in cells in cells](https://youtu.be/gv40Z9tVjAI)
+  - [Nothing](https://youtu.be/sQYUQNozljo)
+  - [Spellular automata](https://youtu.be/xvlsJ3FqNYU)

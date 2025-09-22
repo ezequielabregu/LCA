@@ -69,3 +69,8 @@ God-Machine: Videojuego donde se pueden generar distintos patrones a partir de c
   - [Cells in cells in cells](https://youtu.be/gv40Z9tVjAI)
   - [Nothing](https://youtu.be/sQYUQNozljo)
   - [Spellular automata](https://youtu.be/xvlsJ3FqNYU)
+ 
+## Clase 6 - Pre-entregas TP Final
+- [articulo Anache imagen-color-imagen @Processing](http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf)
+- [enlace compartido por Roy 1](https://umap-learn.readthedocs.io/en/latest/)
+- [enlace compartido por Roy 2](https://www.nvidia.com/en-ph/studio/canvas.html)

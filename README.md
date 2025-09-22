@@ -4,11 +4,11 @@
 
 ## :computer: [- Link Google Meet del curso](https://meet.google.com/rdu-bfew-quf)
 
-## :jigsaw: [- Ejercicios](https://github.com/ezequielabregu/LCA/issues?q=state%3Aopen%20label%3A2025)
+## :jigsaw: [- Actividades](https://github.com/ezequielabregu/LCA/issues?q=state%3Aopen%20label%3A2025)
 
 ## :toolbox: [- Pautas del Trabajo Práctico Final](./Recursos/UNTREF-LCA-Pautas_TP_Final.md)
 
-### :link: [- Links por Clase](/Recursos/links_clases.md)
+#### :link: [- Links por Clase](/Recursos/links_clases.md)
 
 #### :information_source: [- Información y Recursos del curso - LCA](./Recursos/info_curso.md)
 

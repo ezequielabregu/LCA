@@ -74,3 +74,4 @@ God-Machine: Videojuego donde se pueden generar distintos patrones a partir de c
 - [articulo Anache imagen-color-imagen @Processing](http://www.invasiongenerativa.ar/invasion/descargas/INVASION_GENERATIVA_2.pdf)
 - [enlace compartido por Roy 1](https://umap-learn.readthedocs.io/en/latest/)
 - [enlace compartido por Roy 2](https://www.nvidia.com/en-ph/studio/canvas.html)
+- [libro Abregu - seccion sobre espacio](https://ezequielabregu.github.io/code-that-sounds/chapters/space.html)

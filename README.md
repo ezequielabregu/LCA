@@ -44,10 +44,6 @@
  - Recorrido entorno a las ideas de Bucle e Iteración y ejemplificación en código.
  - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
 
----------------------------
-### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
----------------------------
-
 ### 4. Algoritmos, Arrays y Secuencias
 
 - [Algoritmos, Arrays y Secuencias](./Clases/03_Algoritmos_arrays_secuencias/arrays_and_sequencers.md)
@@ -64,8 +60,9 @@
 - Autómatas celulares bimimencionales (AC2D)
 - Caso de estudio: Conway's Game of Life
 
-### Visita de Francisco Colasanto
-- [Artista Invitado: Francisco Colasanto](./Recursos/Visita-FranciscoColasanto.md)
+---------------------------
+### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
+---------------------------
 
 ### 6. Interpolación y Rampa
 
@@ -79,3 +76,12 @@
 ### 8. Aleatoriedad
 
 - [Aleatoriedad](./Clases/08_Aleatoriedad/README.md)
+
+
+---------------------------
+### Especiales de años previos  
+---------------------------
+
+### Visita de Francisco Colasanto
+- [Artista Invitado: Francisco Colasanto](./Recursos/Visita-FranciscoColasanto.md)
+

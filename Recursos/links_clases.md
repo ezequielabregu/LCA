@@ -75,3 +75,5 @@ God-Machine: Videojuego donde se pueden generar distintos patrones a partir de c
 - [enlace compartido por Roy 1](https://umap-learn.readthedocs.io/en/latest/)
 - [enlace compartido por Roy 2](https://www.nvidia.com/en-ph/studio/canvas.html)
 - [libro Abregu - seccion sobre espacio](https://ezequielabregu.github.io/code-that-sounds/chapters/space.html)
+- [podcast Anache - episodio 3 electronica historica](https://damiananache.com.ar/engranajesinusuales/) 
+- [diagramas de flujo - Roy](https://excalidraw.com/)

@@ -18,12 +18,7 @@
 
 #### :green_book: [Code That Sounds - Ebook](https://ezequielabregu.github.io/code-that-sounds/)
 
-### :school: [- Emergencia Económica Universitaria](./Recursos/Emergencia%20Económica%20Universitaria/README.md)
-
 &nbsp;
-
-## Repositorios de Estudiante
-
 
 ## Índice de Contenidos
 

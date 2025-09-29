@@ -77,3 +77,15 @@ God-Machine: Videojuego donde se pueden generar distintos patrones a partir de c
 - [libro Abregu - seccion sobre espacio](https://ezequielabregu.github.io/code-that-sounds/chapters/space.html)
 - [podcast Anache - episodio 3 electronica historica](https://damiananache.com.ar/engranajesinusuales/) 
 - [diagramas de flujo - Roy](https://excalidraw.com/)
+
+## Clase 7 - Interpolación y Rampa
+- [Sobre interpolación avanzada, compartido por Roy](https://www.youtube.com/watch?v=LSNQuFEDOyQ)
+- [Canal recomendado sobre explicaciones de programación y algoritmos](https://www.youtube.com/@TheCodingTrain)
+- [Bibliografia recomendada sobre programacion](https://natureofcode.com/introduction/)
+- [Link compartido por Roy](https://youtu.be/Oszl95YWfbs?si=8vj_-GtkYDnDXEBl)
+- [experiencia de animación compartido por Luciana](https://www.instagram.com/p/Cir9GdsPcbz/?hl=en)
+
+Obras/Referencias : procesos graduales como ejes discursivos del arte 
+- [Wavelength (Michael Snow, 1967)](https://youtu.be/zyjuZs7EQqI?si=E4Y0fMnxcdxIpXGe)
+- [Cityscape (Snow, 2019)](https://youtu.be/LSCi5w_OInw?si=BdI4rQMu1Mc9i0ze)
+

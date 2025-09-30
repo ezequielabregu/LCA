@@ -31,3 +31,8 @@ Exploramos el concepto de rampa en PD+Gem con los siguientes patches disponibles
 Finalmente, revisamos el patch de recreación de la obra de Manfred Mohr que se presentó al inicio del encuentro (sólo la primera parte) [aquí](https://drive.google.com/drive/folders/1yas4XHLdbBW5JNXWsNHhqV1DFHOiETUp?usp=sharing).
 
 Y aquí tienen el enlace directo a una captura de la recreación: [Captura](https://drive.google.com/file/d/1cB7EAy0duXsg90m7psZGnYW-Z4Fqw_99/view?usp=sharing)
+
+## Extra
+En paralelo al recorrido sobre los conceptos de interpolación y de rampa, les comentaba que este tipo de procedimientos se pueden pensar en diálogo con la producción de arte, de un modo parecido a cómo Steve Reich observa la música como un proceso gradual. Les comparto un breve artículo en el que desarrolla esas ideas:[ La música como proceso gradual](https://drive.google.com/file/d/1KZAHCZAA_JRgf_5mGnVgPUSWWEi4amIR/) .
+En sus escritos y entrevistas, él mismo se pone en relación con la producción de videoarte de Michael Snow. Les dejo también los ejemplos que mencioné en el encuentro:[Wavelength (Michael Snow, 1967)](https://youtu.be/zyjuZs7EQqI?si=E4Y0fMnxcdxIpXGe) y [Cityscape (Snow, 2019)](https://youtu.be/LSCi5w_OInw?si=BdI4rQMu1Mc9i0ze).
+

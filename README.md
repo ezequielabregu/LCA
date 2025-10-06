@@ -64,14 +64,15 @@
 
 - [Interpolación y Rampa](./Clases/06_Interpolacion_y_Rampa/README.md)
 
----------------------------
-### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
----------------------------
 
 ### 7. Tools & Workflow
 
 - [Tools & Workflow](./Clases/07_Tools_&_Workflow/Tools_&_Workflow.md)
   
+---------------------------
+### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
+---------------------------
+
 ### 8. Aleatoriedad
 
 - [Aleatoriedad](./Clases/08_Aleatoriedad/README.md)

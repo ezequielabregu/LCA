@@ -462,3 +462,31 @@ Esto resultaría en:
 | Juan         | 25           | Buenos Aires |
 | María        | 30           | Madrid       |
 
+### Quarto Markdown
+
+![Quarto](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/featured.png)
+
+Quarto es una herramienta de publicación que permite crear documentos, presentaciones y sitios web a partir de archivos de texto plano. Utiliza un enfoque basado en Markdown, lo que facilita la escritura y el formateo de contenido. Quarto es especialmente útil para proyectos que requieren una combinación de texto, código y resultados de análisis.
+
+Algunas características clave de Quarto incluyen:
+
+- **Soporte para múltiples formatos de salida**: Puedes generar documentos PDF, HTML y otros formatos a partir del mismo archivo fuente.
+- **Integración con R y Python**: Quarto permite ejecutar código en R y Python, lo que facilita la inclusión de análisis y visualizaciones en tus documentos.
+- **Facilidad de uso**: Al igual que Markdown, Quarto es fácil de aprender y utilizar, lo que lo convierte en una excelente opción para la documentación de proyectos.
+
+Para obtener más información sobre Quarto, visita su [sitio web oficial](https://quarto.org/).
+
+## PlatformIO
+
+![PlatformIO](https://files.seeedstudio.com/wiki/platformIO/platformIO-2.png)
+PlatformIO es un ecosistema de desarrollo integrado (IDE) y un gestor de bibliotecas para proyectos de IoT y sistemas embebidos. Proporciona una interfaz unificada para trabajar con diferentes plataformas de hardware y frameworks de software.
+
+Algunas características clave de PlatformIO incluyen:
+
+- **Soporte para múltiples plataformas**: Puedes desarrollar para una variedad de placas y microcontroladores, incluyendo Arduino, ESP8266, ESP32, y más.
+- **Gestión de bibliotecas**: PlatformIO facilita la instalación y actualización de bibliotecas de terceros, lo que simplifica la gestión de dependencias en tus proyectos.
+- **Integración con editores de código**: Puedes utilizar PlatformIO con editores populares como Visual Studio Code, lo que mejora la experiencia de desarrollo con características como autocompletado y depuración.
+
+Para obtener más información sobre PlatformIO, visita su [sitio web oficial](https://platformio.org/).
+
+&nbsp;

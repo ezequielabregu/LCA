@@ -90,5 +90,18 @@ Obras/Referencias : procesos graduales como ejes discursivos del arte
 - [Cityscape (Snow, 2019)](https://youtu.be/LSCi5w_OInw?si=BdI4rQMu1Mc9i0ze)
 
 ## Clase 8 - Taller
-- [Constanza Casamadrid](https://constanzacasamadrid.wordpress.com/2019/08/25/near-strangers-san-antonio-300/)
+Instalaciones interactivas + Patrones
+- [Instalación patrones luz x Constanza Casamadrid](https://constanzacasamadrid.wordpress.com/2019/08/25/near-strangers-san-antonio-300/)
 - [Recomendación de libro:Design Patterns](https://www.barnesandnoble.com/w/design-patterns-erich-gamma/1100886879)
+- [Enlace directo al libro Design Patterns español pdf](https://drive.google.com/file/d/1ycCZaFbAO9d67NPrUezg14ZgTfyCey0M/)
+
+Espacio y Sonido
+- [Tecnica de control espacial comentada por Ezequiel](https://en.wikipedia.org/wiki/Wave_field_synthesis)
+- [Capitulo de libro de Ezequiel sobre control espacial del sonido](https://ezequielabregu.github.io/code-that-sounds/chapters/space.html)
+
+ASCII ART
+- [Martin Gutman: Demo/avance de TP ](https://github.com/GutmanMartin/demo-final-lca)
+- [ASCII art - referencia x Ezequiel](https://github.com/wojciech-graj/doom-ascii)
+- [ASCII art - referencia x Roy](https://kirill-live.itch.io/ascii-art-paint)
+- [ASCII art - referencia x Ezequiel 2](https://musicforprogramming.net/latest/)
+- [ASCII art - referencia x Ezequiel 3](https://fabiofon.com/netart-is-doing-well/curatorial-statement/)

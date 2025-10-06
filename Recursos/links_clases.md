@@ -89,3 +89,6 @@ Obras/Referencias : procesos graduales como ejes discursivos del arte
 - [Wavelength (Michael Snow, 1967)](https://youtu.be/zyjuZs7EQqI?si=E4Y0fMnxcdxIpXGe)
 - [Cityscape (Snow, 2019)](https://youtu.be/LSCi5w_OInw?si=BdI4rQMu1Mc9i0ze)
 
+## Clase 8 - Taller
+- [Constanza Casamadrid](https://constanzacasamadrid.wordpress.com/2019/08/25/near-strangers-san-antonio-300/)
+- [Recomendación de libro:Design Patterns](https://www.barnesandnoble.com/w/design-patterns-erich-gamma/1100886879)

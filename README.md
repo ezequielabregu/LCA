@@ -87,15 +87,14 @@
 
 - [Tools & Workflow](./Clases/07_Tools_&_Workflow/Tools_&_Workflow.md)
   
----------------------------
-### Hasta acá, arriba, lo de este año. Lo que sigue fue el año previo 
----------------------------
 
 ### 8. Aleatoriedad
 
 - [Aleatoriedad](./Clases/08_Aleatoriedad/README.md)
 
-
+---------------------------
+### Hasta acá, arriba, lo de este año. Lo que sigue fue de años previos 
+---------------------------
 ---------------------------
 ### Especiales de años previos  
 ---------------------------

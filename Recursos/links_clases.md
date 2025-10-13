@@ -105,3 +105,33 @@ ASCII ART
 - [ASCII art - referencia x Roy](https://kirill-live.itch.io/ascii-art-paint)
 - [ASCII art - referencia x Ezequiel 2](https://musicforprogramming.net/latest/)
 - [ASCII art - referencia x Ezequiel 3](https://fabiofon.com/netart-is-doing-well/curatorial-statement/)
+
+## Clase 9 - Aleatoriedad
+
+[MediaMTX](https://mediamtx.org/)
+
+[JackTrip](https://jacktrip.github.io/jacktrip/)
+
+[FFmpeg](https://www.ffmpeg.org/)
+
+[Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
+
+[Cadena de Márkov - Wikipedia](https://es.wikipedia.org/wiki/Cadena_de_M%C3%A1rkov)
+
+[SWI-Prolog](https://www.swi-prolog.org/)
+
+[Video sobre programación](https://www.youtube.com/watch?v=Gc5eICzHkFU&)
+
+[JackTrip - Audio over Internet](https://jacktrip.github.io/jacktrip/)
+
+[Video: The Most Important Algorithm Of All Time](https://www.youtube.com/watch?v=1l2owShGD58)
+
+[Library of Babel](https://libraryofbabel.info/)
+
+[Drand - Distributed Randomness Beacon](https://www.drand.love/)
+
+[Python Tutor - Visualize Code Execution](https://pythontutor.com/visualize.html#mode=edit)
+
+[Reddit: Feed the Damn Cat](https://www.reddit.com/r/feedthedamncat/)
+
+[Spotify Pedalboard](https://github.com/spotify/pedalboard)

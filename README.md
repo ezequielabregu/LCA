@@ -30,9 +30,9 @@
 
 [Mariano Ferreras]()
 
-[Roy Eden](https://github.com/royeden/LCA-final)
+:white_check_mark: [Roy Eden](https://github.com/royeden/LCA-final)
 
-[Luciana Germano](https://github.com/luliger/algorimos_final)
+:white_check_mark: [Luciana Germano](https://github.com/luliger/algorimos_final)
 
 [Martin Ezequiel Reyes]()
 

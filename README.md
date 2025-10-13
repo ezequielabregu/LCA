@@ -20,6 +20,24 @@
 
 &nbsp;
 
+## Repositorio de estudiantes
+
+[Martín Gutman]()
+
+[Lorené Belloni]()
+
+[Inés Peryra]()
+
+[Mariano Ferreras]()
+
+[Roy Eden](https://github.com/royeden/LCA-final)
+
+[Luciana Germano](https://github.com/luliger/algorimos_final)
+
+[Martin Ezequiel Reyes]()
+
+&nbsp;
+
 ## Índice de Contenidos
 
 ### 1. Presentación del curso

@@ -138,3 +138,5 @@ ASCII ART
 
 ## Clase 10 - Taller
 [Fade Led ESP32](https://esp32io.com/tutorials/esp32-led-fade)
+
+[Plataforma de trabajo con sonido compartida por Roy](https://github.com/j-p-higgins/SoundThread)

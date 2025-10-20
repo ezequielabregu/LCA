@@ -28,7 +28,7 @@
 
 [Inés Peryra]()
 
-[Mariano Ferreras]()
+:white_check_mark: [Mariano Ferreras](https://github.com/flariut/creacion_algoritmica)
 
 :white_check_mark: [Roy Eden](https://github.com/royeden/LCA-final)
 

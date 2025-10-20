@@ -22,7 +22,7 @@
 
 ## Repositorio de estudiantes
 
-[Martín Gutman]()
+:white_check_mark: [Martín Gutman](https://github.com/GutmanMartin/demo-final-lca)
 
 [Lorené Belloni]()
 

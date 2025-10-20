@@ -135,3 +135,6 @@ ASCII ART
 [Reddit: Feed the Damn Cat](https://www.reddit.com/r/feedthedamncat/)
 
 [Spotify Pedalboard](https://github.com/spotify/pedalboard)
+
+## Clase 10 - Taller
+[Fade Led ESP32](https://esp32io.com/tutorials/esp32-led-fade)

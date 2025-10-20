@@ -26,7 +26,7 @@
 
 [Lorené Belloni]()
 
-[Inés Peryra]()
+:white_check_mark: [Inés Peryra](https://github.com/fidofido312/LCA-Final/tree/main)
 
 :white_check_mark: [Mariano Ferreras](https://github.com/flariut/creacion_algoritmica)
 

@@ -34,7 +34,7 @@
 
 :white_check_mark: [Luciana Germano](https://github.com/luliger/algorimos_final)
 
-[Martin Ezequiel Reyes]()
+:white_check_mark: [Martin Ezequiel Reyes](https://drive.google.com/drive/folders/1KUlGDqgarb7bg_iFS69P9vFMg9BTr33Q)
 
 &nbsp;
 

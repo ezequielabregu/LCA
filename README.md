@@ -22,15 +22,9 @@
 
 ## Repositorio de estudiantes
 
-:white_check_mark: [Martín Gutman](https://github.com/GutmanMartin/demo-final-lca)
-
 AGUELI, ORNELLA
 
 COLMENERO, MARÍA MARTINA
-
-:white_check_mark: [Inés Peryra](https://github.com/fidofido312/LCA-Final/tree/main)
-
-:white_check_mark: [Mariano Ferreras](https://github.com/flariut/creacion_algoritmica)
 
 FERREIRA, Xiel
 
@@ -40,8 +34,6 @@ GIMENEZ, MATEO LUPE
 
 GOMEZ, FLORENCIA MICAELA
 
-:white_check_mark: [Martin Ezequiel Reyes](https://drive.google.com/drive/folders/1KUlGDqgarb7bg_iFS69P9vFMg9BTr33Q)
-
 IBAÑEZ SIMONETTI, SEBASTIÁN SANTIAGO
 
 PINO, OCTAVIO
@@ -49,6 +41,7 @@ PINO, OCTAVIO
 TISCORNIA RAMOS, FRANCO
 
 TOSI, ORIANA MAGALÍ
+
 
 &nbsp;
 

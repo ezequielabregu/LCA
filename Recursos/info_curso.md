@@ -22,7 +22,7 @@ Lunes de 8:30 a 12:30 hs
 
 ## Modalidad
 
-Virtual
+Semi-presencial, con clases sincrónicas por videoconferencia y presenciales con contenidos expuestos en video y foros de interacción.
 
 ## Link de clases sincrónicas
 
@@ -30,7 +30,7 @@ Virtual
 
 ## Programa
 
-[Programa de LCA 2024](https://docs.google.com/document/d/1yjmXjvqYqB_COu84Aet5cCdCclrRv7Sn_5pmZGaDLuQ/edit?usp=sharing)
+[Programa de LCA 2026](https://docs.google.com/document/d/1yjmXjvqYqB_COu84Aet5cCdCclrRv7Sn_5pmZGaDLuQ/edit?usp=sharing)
 
 ## Formato
 
@@ -122,8 +122,4 @@ Referencias: [Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an A
 
 &nbsp;
 
-### [Codeium](https://codeium.com/)
 
-Alternativa gratuita a Github Copilot.
-
-**Codeium** es una herramienta de inteligencia artificial que agiliza y simplifica la programación al automatizar tareas mundanas, acelerar el desarrollo y aumentar la precisión. Sus algoritmos impulsados por IA facilitan el acceso a su amplia biblioteca de fragmentos de código y plantillas. Además, ofrece una interfaz de usuario intuitiva que permite a los usuarios encontrar rápidamente el código que necesitan.

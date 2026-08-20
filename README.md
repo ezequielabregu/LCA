@@ -22,19 +22,39 @@
 
 ## Repositorio de estudiantes
 
+<<<<<<< HEAD
 :white_check_mark: [Martín Gutman](https://github.com/GutmanMartin/demo-final-lca)
+=======
+AGUELI, ORNELLA
+>>>>>>> 534cfbc (update inicio de clases LCA 2026)
 
-[Lorené Belloni]()
+COLMENERO, MARÍA MARTINA
 
+<<<<<<< HEAD
 :white_check_mark: [Inés Peryra](https://github.com/fidofido312/LCA-Final/tree/main)
 
 :white_check_mark: [Mariano Ferreras](https://github.com/flariut/creacion_algoritmica)
+=======
+FERREIRA, Xiel
 
-:white_check_mark: [Roy Eden](https://github.com/royeden/LCA-final)
+GERICKE IPAR, LUNA
+>>>>>>> 534cfbc (update inicio de clases LCA 2026)
 
-:white_check_mark: [Luciana Germano](https://github.com/luliger/algorimos_final)
+GIMENEZ, MATEO LUPE
 
+GOMEZ, FLORENCIA MICAELA
+
+<<<<<<< HEAD
 :white_check_mark: [Martin Ezequiel Reyes](https://drive.google.com/drive/folders/1KUlGDqgarb7bg_iFS69P9vFMg9BTr33Q)
+=======
+IBAÑEZ SIMONETTI, SEBASTIÁN SANTIAGO
+
+PINO, OCTAVIO
+
+TISCORNIA RAMOS, FRANCO
+
+TOSI, ORIANA MAGALÍ
+>>>>>>> 534cfbc (update inicio de clases LCA 2026)
 
 &nbsp;
 

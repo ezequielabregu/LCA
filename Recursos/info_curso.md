@@ -14,7 +14,7 @@ Dr. Ezequiel Abregu
 
 eabregu@untref.edu.ar
 
-[https://ezequielabregu.com/](https://ezequielabregu.com/)
+[https://ezequielabregu.net/](https://ezequielabregu.net/)
 
 ## Día y horario
 

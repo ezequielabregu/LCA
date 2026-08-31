@@ -11,6 +11,17 @@
 - [Playlists de escuchar sonidos visuales 2020 (MAMBA - Jacob Kirkegaard)](https://museomoderno.org/en/playlists-de-escuchar-sonidos-visuales-2020/)
 
 - [Biennale.py (2001)](https://0100101110101101.org/biennale-py/)
+  
+- [An antivirus script to disinfect files contaminated by the virus and artwork biennale.py](https://github.com/decolector/antibiennale)
+
+- [William Anastasi](https://www.nga.gov/artworks/131501-subway-drawing)
+
+- [Definiciones propias y delegadas: indeterminación y autoría compartida en el arte contemporáneo (D. Anache)](https://polipapers.upv.es/index.php/aniav/article/view/22734/17689)
+
+- [The Way of Code (Rick Rubin)](https://www.thewayofcode.com/)
+- [The Timeless Art of Vibe Coding](https://gist.github.com/mysticaltech/8b91a40141001a6e725f568c22cc5e1b)
+- [77 Million Painting (Brian Eno)](https://www.youtube.com/watch?v=eoTA9mu3L3k)
+- [Der Lauf der Dinge (The Way Things Go), by Peter Fischli and David Weiss, 1987.](https://vimeo.com/828477072)
 
 ---
 

@@ -1,8 +1,8 @@
 &nbsp;
 # **Caso de Estudio #1: Vera Molnar**
-  - Algunas obras [enlace](https://drive.google.com/drive/folders/1B9neBGlZ-dOk9J2MskYJcA8b5VvUwpCL?usp=sharing)
-
-__________
+  - Algunas obras [enlace](https://drive.google.com/drive/folders/1B9neBGlZ-dOk9J2MskYJcA8b5VvUwpCL)
+  - Artículo de ella sobre su producción en 1975 [enlace](https://drive.google.com/file/d/1_ZqIApy291qtqfoSqTkdvlVWrgkYTUzG/)
+__________ 
 &nbsp;
 # **Caso de Estudio #2: Steve Reich - Clapping Music**
   - Esta versión está grabada en stereo, se escuchan unas palmas de cada lado [enlace](https://www.youtube.com/watch?v=liYkRarIDfo&t=4s)

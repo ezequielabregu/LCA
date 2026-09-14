@@ -6,7 +6,7 @@ __________
 &nbsp;
 # **Caso de Estudio #2: Steve Reich - Clapping Music**
   - Esta versión está grabada en stereo, se escuchan unas palmas de cada lado [enlace](https://www.youtube.com/watch?v=liYkRarIDfo&t=4s)
-  - Proyección hacia la danza, por Anne Teresa DeKeersmaeker [enalce](https://www.youtube.com/watch?v=HBWWF3ArW-w&t=16s)
+  - Proyección hacia la danza, por Anne Teresa DeKeersmaeker [enlace](https://www.youtube.com/watch?v=HBWWF3ArW-w&t=16s)
 
   - Algunas versiones de la partitura [enlace](https://drive.google.com/drive/folders/1FXfUqmJIjWh3hawgyhNTokPfaLWVshQu?usp=drive_link)
 

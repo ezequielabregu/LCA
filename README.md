@@ -69,11 +69,6 @@ TOSI, ORIANA MAGALÍ
   - [Slides](./Clases/03_Algoritmos_arrays_secuencias/Algoritmo_de_Euclides_y_Ritmo.pdf)
   - [Paper](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf)
  
----------------------------
-### Hasta acá, arriba, lo de este año. Lo que sigue fue de años previos 
----------------------------
----------------------------
-
 ### 4. Bucle e Iteracion
 
  - Casos de Estudio: Obras de Vera Molnar y Clapping Music de Steve Reich. 
@@ -81,7 +76,11 @@ TOSI, ORIANA MAGALÍ
  - Recorrido entorno a las ideas de Bucle e Iteración y ejemplificación en código.
  - [enlace al temario detallado, comentado y con los materiales](./Clases/04_Bucles_e_Iteraciones/README.md)
 
-    
+---------------------------
+### Hasta acá, arriba, lo de este año. Lo que sigue fue de años previos 
+---------------------------
+---------------------------
+
 ### 5. Automatas Celulares
 
 - [Automatas Celulares](./Clases/05_Automatas_celulares/Automatas_celulares.md)

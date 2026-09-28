@@ -20,7 +20,7 @@ Luego, vimos la implementación de esa fórmula en PD+Gem. Primero con una únic
 
 Posteriormente, realizamos una doble interpolación lineal agregando el eje Z en los siguientes patches disponibles [aquí](https://drive.google.com/drive/folders/1M2Oz9P1Gyu0PNkC7cjvAvueGmfFPB4uU?usp=sharing).
 
-En la segunda mitad del encuentro, nos adentramos en el concepto de Rampa. Recuperamos el algoritmo del contador y lo planteamos para su desarrollo temporal. Así, definimos al generador de rampa, un contador controlado y definido en función del tiempo. 
+En la segunda mitad del encuentro, profundizamos en el concepto de Rampa. Recuperamos el algoritmo del contador y lo planteamos para su desarrollo temporal. Así, definimos al generador de rampa, un contador controlado y definido en función del tiempo. 
 
 Un generador de rampa internamente calcula el paso necesario para que se generen los valores intermedios entre sus límites según un tiempo definido como argumento o parámetro de control.
 
@@ -28,11 +28,11 @@ En Pure Data, uno de los objetos generadores de rampa es `line`.
 
 Exploramos el concepto de rampa en PD+Gem con los siguientes patches disponibles [aquí](https://drive.google.com/drive/folders/10WeJjUiGj2N9ciDNTBjbnkb_F8RULvXx?usp=sharing).
 
-Finalmente, revisamos el patch de recreación de la obra de Manfred Mohr que se presentó al inicio del encuentro (sólo la primera parte) [aquí](https://drive.google.com/drive/folders/1yas4XHLdbBW5JNXWsNHhqV1DFHOiETUp?usp=sharing).
+Finalmente, revisamos el patch de recreación de la obra de Manfred Mohr que se presentó al inicio del encuentro (sólo la primera parte de la obra) [aquí](https://drive.google.com/drive/folders/1yas4XHLdbBW5JNXWsNHhqV1DFHOiETUp?usp=sharing).
 
 Y aquí tienen el enlace directo a una captura de la recreación: [Captura](https://drive.google.com/file/d/1cB7EAy0duXsg90m7psZGnYW-Z4Fqw_99/view?usp=sharing)
 
 ## Extra
 En paralelo al recorrido sobre los conceptos de interpolación y de rampa, les comentaba que este tipo de procedimientos se pueden pensar en diálogo con la producción de arte, de un modo parecido a cómo Steve Reich observa la música como un proceso gradual. Les comparto un breve artículo en el que desarrolla esas ideas:[ La música como proceso gradual](https://drive.google.com/file/d/1KZAHCZAA_JRgf_5mGnVgPUSWWEi4amIR/) .
-En sus escritos y entrevistas, él mismo se pone en relación con la producción de videoarte de Michael Snow. Les dejo también los ejemplos que mencioné en el encuentro:[Wavelength (Michael Snow, 1967)](https://youtu.be/zyjuZs7EQqI?si=E4Y0fMnxcdxIpXGe) y [Cityscape (Snow, 2019)](https://youtu.be/LSCi5w_OInw?si=BdI4rQMu1Mc9i0ze).
+En sus escritos y entrevistas, él mismo se pone en relación con la producción de videoarte de Michael Snow. Les dejo también los ejemplos que mencioné en el encuentro:[Wavelength (Michael Snow, 1967)](https://youtu.be/zyjuZs7EQqI?si=E4Y0fMnxcdxIpXGe) y [La Région Centrale (Snow, 1971](https://youtu.be/Q6YHm6kkEL8).
 

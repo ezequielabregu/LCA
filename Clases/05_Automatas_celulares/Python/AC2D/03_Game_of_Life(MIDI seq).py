@@ -23,9 +23,9 @@ COLOR_ALIVE_NEXT = (255, 255, 255)
 CURSOR_COLOR = (255, 0, 0)
 
 def generate_midi_notes(active_cells, midi_port, active_notes):
-    lowest_note = 48  # Adjust the lowest MIDI note here
+    lowest_note = 36  # Adjust the lowest MIDI note here
     channel = 1
-    velocity = 64
+    velocity = 100
 
     # Turn off notes from the previous step
     for note in active_notes:

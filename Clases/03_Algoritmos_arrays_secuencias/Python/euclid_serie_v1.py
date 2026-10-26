@@ -12,7 +12,8 @@ def euclidean(pulses, steps):
     return ''.join(map(str, slots))
 
 # Variables
-pulses = 4
-steps = 11
+pulses = 5
+steps = 13
+
 serie_euclideana = euclidean(pulses, steps)
 print(serie_euclideana)

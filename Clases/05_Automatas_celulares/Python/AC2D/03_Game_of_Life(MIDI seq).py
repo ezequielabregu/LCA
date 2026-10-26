@@ -7,7 +7,7 @@ import mido
 OUTPUT_PORT_NAME = "IAC Driver Bus 1"
 
 # Tempo Variables
-BPM = 120 * 6  # Beats per minute
+BPM = 120 * .25  # Beats per minute
 TEMPO_MULTIPLIER = 60.0 / BPM
 
 # Game of Life Variables
@@ -23,7 +23,7 @@ COLOR_ALIVE_NEXT = (255, 255, 255)
 CURSOR_COLOR = (255, 0, 0)
 
 def generate_midi_notes(active_cells, midi_port, active_notes):
-    lowest_note = 36  # Adjust the lowest MIDI note here
+    lowest_note = 48  # Adjust the lowest MIDI note here
     channel = 1
     velocity = 100
 

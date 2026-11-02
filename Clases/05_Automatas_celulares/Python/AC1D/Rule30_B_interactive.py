@@ -29,7 +29,6 @@ def main():
     clock = pygame.time.Clock()
 
     cells = np.zeros((HEIGHT // CELL_SIZE, WIDTH // CELL_SIZE), dtype=np.int8)
-    next_cells = np.zeros_like(cells)
 
     running = True
     evolve = False
@@ -53,8 +52,7 @@ def main():
                 left = cells[current_row, (x-1) % (WIDTH // CELL_SIZE)]
                 center = cells[current_row, x]
                 right = cells[current_row, (x+1) % (WIDTH // CELL_SIZE)]
-                next_cells[current_row + 1, x] = rule30(left, center, right)
-            cells = np.copy(next_cells)  # Use np.copy to create a copy of next_cells
+                cells[current_row + 1, x] = rule30(left, center, right)
             current_row += 1
 
         pygame.display.flip()
